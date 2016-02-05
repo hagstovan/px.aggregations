@@ -1,0 +1,36 @@
+[Aggreg]
+Name=ársfjórðingar
+Valueset=mánaðir
+1=1. ársfj.
+2=2. ársfj.
+3=3. ársfj.
+4=4. ársfj.
+
+[Aggtext]
+1=1. ársfj.
+2=2. ársfj.
+3=3. ársfj.
+4=4. ársfj.
+
+
+[1. ársfj.]
+1=1
+2=2
+3=3
+
+[2. ársfj.]
+1=4
+2=5
+3=6
+
+[3. ársfj.]
+1=7
+2=8
+3=9
+
+[4. ársfj.]
+1=10
+2=11
+3=12
+
+

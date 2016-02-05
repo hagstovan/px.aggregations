@@ -1,0 +1,334 @@
+[Aggreg]
+Name=To municipalities 1997-2000
+Valueset=Immigration
+Desc=Immigration villages aggregated to immigration municipalities
+1=Total Faroe Islands
+2=To Fugloyar
+3=To Svínoyar
+4=To Viðareiðis
+5=To Hvannasunds
+6=To Klaksvíkar
+7=To Kunoyar
+8=To Mikladals
+9=To Húsa
+10=To Oyndafjarðar
+11=To Elduvíkar
+12=To Fuglafjarðar
+13=To Leirvíkar
+14=To Gøtu
+15=To Nes
+16=To Runavíkar
+17=To Sjóvar
+18=To Skála
+19=To Eiðis
+20=To Sunda
+21=To Funnings
+22=To Gjáar
+23=To Haldórsvíkar
+24=To Saksunar
+25=To Hvalvíkar
+26=To Hósvíkar
+27=To Kollafjarðar
+28=To Kvívíkar
+29=To Vestmanna
+30=To Tórshavnar
+31=To Kirkjubøar
+32=To Hests
+33=To Nólsoyar
+34=To Sandavágs
+35=To Miðvágs
+36=To Sørvágs
+37=To Bíggjar
+38=To Mykines
+39=To Skopunar
+40=To Sands
+41=To Skálavíkar
+42=To Húsavíkar
+43=To Skúvoyar
+44=To Hvalbiar
+45=To Tvøroyrar
+46=To Fámjins
+47=To Hovs
+48=To Porkeris
+49=To Vágs
+50=To Sumbiar
+51=To abroad
+
+[Aggtext]
+1=Total Faroe Islands
+2=To Fugloyar
+3=To Svínoyar
+4=To Viðareiðis
+5=To Hvannasunds
+6=To Klaksvíkar
+7=To Kunoyar
+8=To Mikladals
+9=To Húsa
+10=To Oyndafjarðar
+11=To Elduvíkar
+12=To Fuglafjarðar
+13=To Leirvíkar
+14=To Gøtu
+15=To Nes
+16=To Runavíkar
+17=To Sjóvar
+18=To Skála
+19=To Eiðis
+20=To Sunda
+21=To Funnings
+22=To Gjáar
+23=To Haldórsvíkar
+24=To Saksunar
+25=To Hvalvíkar
+26=To Hósvíkar
+27=To Kollafjarðar
+28=To Kvívíkar
+29=To Vestmanna
+30=To Tórshavnar
+31=To Kirkjubøar
+32=To Hests
+33=To Nólsoyar
+34=To Sandavágs
+35=To Miðvágs
+36=To Sørvágs
+37=To Bíggjar
+38=To Mykines
+39=To Skopunar
+40=To Sands
+41=To Skálavíkar
+42=To Húsavíkar
+43=To Skúvoyar
+44=To Hvalbiar
+45=To Tvøroyrar
+46=To Fámjins
+47=To Hovs
+48=To Porkeris
+49=To Vágs
+50=To Sumbiar
+51=To abroad
+
+[Total Faroe Islands]
+1=999999
+
+[To Fugloyar]
+1=410101
+2=410102
+
+[To Svínoyar]
+1=410201
+
+[To Viðareiðis]
+1=410301
+
+[To Hvannasunds]
+1=410401
+2=410402
+3=410403
+4=410404
+5=410405
+
+[To Klaksvíkar]
+1=410501
+2=410502
+3=410503
+4=410505
+
+[To Kunoyar]
+1=410601
+2=410602
+
+[To Mikladals]
+1=410701
+2=410702
+
+[To Húsa]
+1=410801
+2=410802
+
+[To Oyndafjarðar]
+1=420101
+
+[To Elduvíkar]
+1=420201
+2=420202
+
+[To Fuglafjarðar]
+1=420301
+2=420302
+
+[To Leirvíkar]
+1=420401
+
+[To Gøtu]
+1=420501
+2=420502
+3=420503
+4=420504
+5=420505
+
+[To Nes]
+1=420601
+2=420602
+3=420603
+
+[To Runavíkar]
+1=420701
+2=420702
+3=420703
+4=420704
+5=420705
+6=420706
+7=420707
+8=420708
+9=420709
+
+[To Sjóvar]
+1=420801
+2=420802
+3=420803
+4=420804
+5=420805
+
+[To Skála]
+1=420901
+2=420902
+
+[To Eiðis]
+1=421001
+2=421002
+3=421003
+
+[To Sunda]
+1=421101
+2=421102
+3=421103
+
+[To Funnings]
+1=421201
+
+[To Gjáar]
+1=421301
+
+[To Haldórsvíkar]
+1=430101
+2=430102
+3=430103
+
+[To Saksunar]
+1=430201
+
+[To Hvalvíkar]
+1=430301
+2=430302
+3=430303
+
+[To Hósvíkar]
+1=430401
+
+[To Kollafjarðar]
+1=430501
+2=430502
+3=430503
+
+[To Kvívíkar]
+1=430601
+2=430602
+3=430603
+4=430604
+5=430605
+6=430606
+
+[To Vestmanna]
+1=430701
+
+[To Tórshavnar]
+1=430801
+2=470101
+3=470102
+4=470103
+5=470104
+6=470105
+7=470106
+8=470108
+9=430805
+10=430806
+
+[To Kirkjubøar]
+1=430901
+2=430902
+
+[To Hests]
+1=431001
+2=431002
+
+[To Nólsoyar]
+1=431102
+
+[To Sandavágs]
+1=440101
+
+[To Miðvágs]
+1=440201
+2=440202
+
+[To Sørvágs]
+1=440301
+
+[To Bíggjar]
+1=440401
+2=440402
+
+[To Mykines]
+1=440501
+
+[To Skopunar]
+1=450201
+
+[To Sands]
+1=450101
+
+[To Skálavíkar]
+1=450301
+
+[To Húsavíkar]
+1=450401
+2=450402
+3=450403
+
+[To Skúvoyar]
+1=450501
+2=450502
+
+[To Hvalbiar]
+1=460101
+2=460102
+
+[To Tvøroyrar]
+1=460201
+2=460202
+3=460203
+4=460204
+5=460205
+
+[To Fámjins]
+1=460301
+
+[To Hovs]
+1=460401
+
+[To Porkeris]
+1=460501
+
+[To Vágs]
+1=460601
+2=460602
+
+[To Sumbiar]
+1=460702
+2=460703
+3=460704
+4=460705
+
+[To abroad]
+1=555555
+

@@ -1,0 +1,35 @@
+[Aggreg]
+Name=Quarter
+Valueset=month
+Desc=Quarter
+1=1. Quarter
+2=2. Quarter
+3=3. Quarter
+4=4. Quarter
+
+[Aggtext]
+1=1. Quarter
+2=2. Quarter
+3=3. Quarter
+4=4. Quarter
+
+[1. Quarter]
+1=1
+2=2
+3=3
+
+[2. Quarter]
+1=4
+2=5
+3=6
+
+[3. Quarter]
+1=7
+2=8
+3=9
+
+[4. Quarter]
+1=10
+2=11
+3=12
+

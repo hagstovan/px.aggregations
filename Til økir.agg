@@ -1,0 +1,108 @@
+[Aggreg]
+Name=til-landspartar
+Valueset=Tilflytikommunur
+1=01 til Klaksvíkarøkið
+2=02 til Norðoyggjar annars
+3=03 til Norðaru Eysturoy
+4=04 til Sunnaru Eysturoy
+5=05 til Tórshavnarøki
+6=06 til Streymoy annars
+7=07 til Vágaøkið
+8=08 til Sandoyarøkið
+9=09 til Suðuroyar
+10=10 til Føroyar tils.
+11=11 til Útlond (úr Før.)
+12=12 Alt tilsamans
+
+[Aggtext]
+1=01 til Klaksvíkarøkið
+2=02 til Norðoyggjar annars
+3=03 til Norðaru Eysturoy
+4=04 til Sunnaru Eysturoy
+5=05 til Tórshavnarøki
+6=06 til Streymoy annars
+7=07 til Vágaøkið
+8=08 til Sandoyarøkið
+9=09 til Suðuroyar
+10=10 til Føroyar tils.
+11=11 til Útlond (úr Før.)
+12=12 Alt tilsamans
+
+[01 til Klaksvíkarøkið]
+1=1
+2=2
+
+[02 til Norðoyggjar annars]
+1=3
+2=4
+3=5
+4=6
+5=7
+6=8
+
+[03 til Norðaru Eysturoy]
+1=10
+2=11
+3=12
+4=13
+5=14
+6=9
+
+[04 til Sunnaru Eysturoy]
+1=15
+2=16
+3=17
+4=18
+5=19
+6=20
+7=21
+
+[05 til Tórshavnarøki]
+1=22
+2=23
+
+[06 til Streymoy annars]
+1=24
+2=25
+3=26
+4=27
+5=28
+6=29
+7=30
+8=31
+9=32
+10=33
+
+[07 til Vágaøkið]
+1=34
+2=35
+3=36
+4=37
+5=38
+
+[08 til Sandoyarøkið]
+1=39
+2=40
+3=41
+4=42
+5=43
+
+[09 til Suðuroyar]
+1=44
+2=45
+3=46
+4=47
+5=48
+6=49
+7=50
+
+[10 til Føroyar tils.]
+1=51
+
+[11 til Útlond (úr Før.)]
+1=52
+
+[12 Alt tilsamans]
+1=53
+
+

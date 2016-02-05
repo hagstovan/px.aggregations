@@ -1,0 +1,272 @@
+[Aggreg]
+Name=To municipalities 2005-2008
+Valueset=Immigration
+Desc=Immigration villages aggregated to immigration municipalities
+1=Total Faroe Islands
+2=To Fugloyar
+3=To Svínoyar
+4=To Viðareiðis
+5=To Hvannasunds
+6=To Klaksvíkar
+7=To Kunoyar
+8=To Húsa
+9=To Fuglafjarðar
+10=To Leirvíkar
+11=To Gøtu
+12=To Nes
+13=To Runavíkar
+14=To Sjóvar
+15=To Funnings
+16=To Eiðis
+17=To Sunda
+18=To Tórshavnar
+19=To Kvívíkar
+20=To Vestmanna
+21=To Sandavágs
+22=To Miðvágs
+23=To Sørvágs
+24=To Skopunar
+25=To Sands
+26=To Skálavíkar
+27=To Húsavíkar
+28=To Skúvoyar
+29=To Hvalbiar
+30=To Tvøroyrar
+31=To Fámjins
+32=To Hovs
+33=To Porkeris
+34=To Vágs
+35=To Sumbiar
+36=To abroad
+
+[Aggtext]
+1=Total Faroe Islands
+2=To Fugloyar
+3=To Svínoyar
+4=To Viðareiðis
+5=To Hvannasunds
+6=To Klaksvíkar
+7=To Kunoyar
+8=To Húsa
+9=To Fuglafjarðar
+10=To Leirvíkar
+11=To Gøtu
+12=To Nes
+13=To Runavíkar
+14=To Sjóvar
+15=To Funnings
+16=To Eiðis
+17=To Sunda
+18=To Tórshavnar
+19=To Kvívíkar
+20=To Vestmanna
+21=To Sandavágs
+22=To Miðvágs
+23=To Sørvágs
+24=To Skopunar
+25=To Sands
+26=To Skálavíkar
+27=To Húsavíkar
+28=To Skúvoyar
+29=To Hvalbiar
+30=To Tvøroyrar
+31=To Fámjins
+32=To Hovs
+33=To Porkeris
+34=To Vágs
+35=To Sumbiar
+36=To abroad
+
+[Total Faroe Islands]
+1=999999
+
+[To Fugloyar]
+1=410101
+2=410102
+
+[To Svínoyar]
+1=410201
+
+[To Viðareiðis]
+1=410301
+
+[To Hvannasunds]
+1=410401
+2=410402
+3=410403
+4=410404
+5=410405
+
+[To Klaksvíkar]
+1=410501
+2=410502
+3=410503
+4=410505
+5=410701
+6=410702
+
+[To Kunoyar]
+1=410601
+2=410602
+
+[To Húsa]
+1=410801
+2=410802
+
+[To Fuglafjarðar]
+1=420301
+2=420302
+
+[To Leirvíkar]
+1=420401
+
+[To Gøtu]
+1=420501
+2=420502
+3=420503
+4=420504
+5=420505
+
+[To Nes]
+1=420601
+2=420602
+3=420603
+
+[To Runavíkar]
+1=420101
+2=420201
+3=420202
+4=420701
+5=420702
+6=420703
+7=420704
+8=420705
+9=420706
+10=420707
+11=420708
+12=420709
+13=420901
+14=420902
+
+[To Sjóvar]
+1=420801
+2=420802
+3=420803
+4=420804
+5=420805
+
+[To Funnings]
+1=421201
+
+[To Eiðis]
+1=421001
+2=421002
+3=421003
+
+[To Sunda]
+1=421101
+2=421102
+3=421103
+4=421301
+5=430101
+6=430102
+7=430103
+8=430201
+9=430301
+10=430302
+11=430303
+12=430401
+
+[To Tórshavnar]
+1=430501
+2=430502
+3=430503
+4=430801
+5=470101
+6=470102
+7=470103
+8=470104
+9=470105
+10=470106
+11=470108
+12=430805
+13=430806
+14=430901
+15=430902
+16=431001
+17=431002
+18=431102
+
+[To Kvívíkar]
+1=430601
+2=430602
+3=430604
+4=430605
+5=430606
+
+[To Vestmanna]
+1=430701
+
+[To Sandavágs]
+1=440101
+
+[To Miðvágs]
+1=440201
+2=440202
+
+[To Sørvágs]
+1=440301
+2=440401
+3=440402
+4=440501
+
+[To Skopunar]
+1=450201
+
+[To Sands]
+1=450101
+
+[To Skálavíkar]
+1=450301
+
+[To Húsavíkar]
+1=450401
+2=450402
+3=450403
+
+[To Skúvoyar]
+1=450501
+2=450502
+
+[To Hvalbiar]
+1=460101
+2=460102
+
+[To Tvøroyrar]
+1=460201
+2=460202
+3=460203
+4=460204
+5=460205
+
+[To Fámjins]
+1=460301
+
+[To Hovs]
+1=460401
+
+[To Porkeris]
+1=460501
+
+[To Vágs]
+1=460601
+
+[To Sumbiar]
+1=460702
+2=460703
+3=460704
+4=460705
+
+[To abroad]
+1=555555
+

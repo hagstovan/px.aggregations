@@ -1,0 +1,330 @@
+[Aggreg]
+Name=From municipalities 2001-2004
+Valueset=Emigration
+Desc=Emigration villages aggregated to emigration municipalities
+1=Total Faroe Islands
+2=From Fugloyar 
+3=From Svínoyar
+4=From Viðareiðis
+5=From Hvannasunds
+6=From Klaksvíkar
+7=From Kunoyar
+8=From Mikladals
+9=From Húsa
+10=From Oyndafjarðar
+11=From Elduvíkar
+12=From Fuglafjarðar
+13=From Leirvíkar
+14=From Gøtu
+15=From Nes
+16=From Runavíkar
+17=From Sjóvar
+18=From Skála
+19=From Eiðis
+20=From Sunda
+21=From Funnings
+22=From Gjáar
+23=From Haldórsvíkar
+24=From Saksunar
+25=From Hvalvíkar
+26=From Hósvíkar
+27=From Kvívíkar
+28=From Vestmanna
+29=From Tórshavnar
+30=From Kirkjubøar
+31=From Hests
+32=From Nólsoyar
+33=From Sandavágs
+34=From Miðvágs
+35=From Sørvágs
+36=From Bíggjar
+37=From Mykines
+38=From Skopunar
+39=From Sands
+40=From Skálavíkar
+41=From Húsavíkar
+42=From Skúvoyar
+43=From Hvalbiar
+44=From Tvøroyrar
+45=From Fámjins
+46=From Hovs
+47=From Porkeris
+48=From Vágs
+49=From Sumbiar
+50=From abroad
+
+[Aggtext]
+1=Total Faroe Islands
+2=From Fugloyar 
+3=From Svínoyar
+4=From Viðareiðis
+5=From Hvannasunds
+6=From Klaksvíkar
+7=From Kunoyar
+8=From Mikladals
+9=From Húsa
+10=From Oyndafjarðar
+11=From Elduvíkar
+12=From Fuglafjarðar
+13=From Leirvíkar
+14=From Gøtu
+15=From Nes
+16=From Runavíkar
+17=From Sjóvar
+18=From Skála
+19=From Eiðis
+20=From Sunda
+21=From Funnings
+22=From Gjáar
+23=From Haldórsvíkar
+24=From Saksunar
+25=From Hvalvíkar
+26=From Hósvíkar
+27=From Kvívíkar
+28=From Vestmanna
+29=From Tórshavnar
+30=From Kirkjubøar
+31=From Hests
+32=From Nólsoyar
+33=From Sandavágs
+34=From Miðvágs
+35=From Sørvágs
+36=From Bíggjar
+37=From Mykines
+38=From Skopunar
+39=From Sands
+40=From Skálavíkar
+41=From Húsavíkar
+42=From Skúvoyar
+43=From Hvalbiar
+44=From Tvøroyrar
+45=From Fámjins
+46=From Hovs
+47=From Porkeris
+48=From Vágs
+49=From Sumbiar
+50=From abroad
+
+[Total Faroe Islands]
+1=999999
+
+[From Fugloyar ]
+1=410101
+2=410102
+
+[From Svínoyar]
+1=410201
+
+[From Viðareiðis]
+1=410301
+
+[From Hvannasunds]
+1=410401
+2=410402
+3=410403
+4=410404
+5=410405
+
+[From Klaksvíkar]
+1=410501
+2=410502
+3=410503
+4=410505
+
+[From Kunoyar]
+1=410601
+2=410602
+
+[From Mikladals]
+1=410701
+2=410702
+
+[From Húsa]
+1=410801
+2=410802
+
+[From Oyndafjarðar]
+1=420101
+
+[From Elduvíkar]
+1=420201
+2=420202
+
+[From Fuglafjarðar]
+1=420301
+2=420302
+
+[From Leirvíkar]
+1=420401
+
+[From Gøtu]
+1=420501
+2=420502
+3=420503
+4=420504
+5=420505
+
+[From Nes]
+1=420601
+2=420602
+3=420603
+
+[From Runavíkar]
+1=420701
+2=420702
+3=420703
+4=420704
+5=420705
+6=420706
+7=420707
+8=420708
+9=420709
+
+[From Sjóvar]
+1=420801
+2=420802
+3=420803
+4=420804
+5=420805
+
+[From Skála]
+1=420901
+2=420902
+
+[From Eiðis]
+1=421001
+2=421002
+3=421003
+
+[From Sunda]
+1=421101
+2=421102
+3=421103
+
+[From Funnings]
+1=421201
+
+[From Gjáar]
+1=421301
+
+[From Haldórsvíkar]
+1=430101
+2=430102
+3=430103
+
+[From Saksunar]
+1=430201
+
+[From Hvalvíkar]
+1=430301
+2=430302
+3=430303
+
+[From Hósvíkar]
+1=430401
+
+[From Kvívíkar]
+1=430601
+2=430602
+3=430603
+4=430604
+5=430605
+6=430606
+
+[From Vestmanna]
+1=430701
+
+[From Tórshavnar]
+1=430501
+2=430502
+3=430503
+4=430801
+5=470101
+6=470102
+7=470103
+8=470104
+9=470105
+10=470106
+11=470108
+12=430805
+13=430806
+
+[From Kirkjubøar]
+1=430901
+2=430902
+
+[From Hests]
+1=431001
+2=431002
+
+[From Nólsoyar]
+1=431102
+
+[From Sandavágs]
+1=440101
+
+[From Miðvágs]
+1=440201
+2=440202
+
+[From Sørvágs]
+1=440301
+
+[From Bíggjar]
+1=440401
+2=440402
+
+[From Mykines]
+1=440501
+
+[From Skopunar]
+1=450201
+
+[From Sands]
+1=450101
+
+[From Skálavíkar]
+1=450301
+
+[From Húsavíkar]
+1=450401
+2=450402
+3=450403
+
+[From Skúvoyar]
+1=450501
+2=450502
+
+[From Hvalbiar]
+1=460101
+2=460102
+
+[From Tvøroyrar]
+1=460201
+2=460202
+3=460203
+4=460204
+5=460205
+
+[From Fámjins]
+1=460301
+
+[From Hovs]
+1=460401
+
+[From Porkeris]
+1=460501
+
+[From Vágs]
+1=460601
+2=460602
+
+[From Sumbiar]
+1=460702
+2=460703
+3=460704
+4=460705
+
+[From abroad]
+1=555555
+

@@ -1,0 +1,329 @@
+[Aggreg]
+Name=Til kommunur 2001-2004
+Valueset=Til bygdir
+Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
+1=Alt landið
+2=Til Fugloyar 
+3=Til Svínoyar
+4=Til Viðareiðis
+5=Til Hvannasunds
+6=Til Klaksvíkar
+7=Til Kunoyar
+8=Til Mikladals
+9=Til Húsa
+10=Til Oyndafjarðar
+11=Til Elduvíkar
+12=Til Fuglafjarðar
+13=Til Leirvíkar
+14=Til Gøtu
+15=Til Nes
+16=Til Runavíkar
+17=Til Sjóvar
+18=Til Skála
+19=Til Eiðis
+20=Til Sunda
+21=Til Funnings
+22=Til Gjáar
+23=Til Haldórsvíkar
+24=Til Saksunar
+25=Til Hvalvíkar
+26=Til Hósvíkar
+27=Til Kvívíkar
+28=Til Vestmanna
+29=Til Tórshavnar
+30=Til Kirkjubøar
+31=Til Hests
+32=Til Nólsoyar
+33=Til Sandavágs
+34=Til Miðvágs
+35=Til Sørvágs
+36=Til Bíggjar
+37=Til Mykines
+38=Til Skopunar
+39=Til Sands
+40=Til Skálavíkar
+41=Til Húsavíkar
+42=Til Skúvoyar
+43=Til Hvalbiar
+44=Til Tvøroyrar
+45=Til Fámjins
+46=Til Hovs
+47=Til Porkeris
+48=Til Vágs
+49=Til Sumbiar
+50=Til útlond
+
+[Aggtext]
+1=Alt landið
+2=Til Fugloyar 
+3=Til Svínoyar
+4=Til Viðareiðis
+5=Til Hvannasunds
+6=Til Klaksvíkar
+7=Til Kunoyar
+8=Til Mikladals
+9=Til Húsa
+10=Til Oyndafjarðar
+11=Til Elduvíkar
+12=Til Fuglafjarðar
+13=Til Leirvíkar
+14=Til Gøtu
+15=Til Nes
+16=Til Runavíkar
+17=Til Sjóvar
+18=Til Skála
+19=Til Eiðis
+20=Til Sunda
+21=Til Funnings
+22=Til Gjáar
+23=Til Haldórsvíkar
+24=Til Saksunar
+25=Til Hvalvíkar
+26=Til Hósvíkar
+27=Til Kvívíkar
+28=Til Vestmanna
+29=Til Tórshavnar
+30=Til Kirkjubøar
+31=Til Hests
+32=Til Nólsoyar
+33=Til Sandavágs
+34=Til Miðvágs
+35=Til Sørvágs
+36=Til Bíggjar
+37=Til Mykines
+38=Til Skopunar
+39=Til Sands
+40=Til Skálavíkar
+41=Til Húsavíkar
+42=Til Skúvoyar
+43=Til Hvalbiar
+44=Til Tvøroyrar
+45=Til Fámjins
+46=Til Hovs
+47=Til Porkeris
+48=Til Vágs
+49=Til Sumbiar
+50=Til útlond
+
+[Alt landið]
+1=999999
+
+[Til Fugloyar ]
+1=410101
+2=410102
+
+[Til Svínoyar]
+1=410201
+
+[Til Viðareiðis]
+1=410301
+
+[Til Hvannasunds]
+1=410401
+2=410402
+3=410403
+4=410404
+5=410405
+
+[Til Klaksvíkar]
+1=410501
+2=410502
+3=410503
+4=410505
+
+[Til Kunoyar]
+1=410601
+2=410602
+
+[Til Mikladals]
+1=410701
+2=410702
+
+[Til Húsa]
+1=410801
+2=410802
+
+[Til Oyndafjarðar]
+1=420101
+
+[Til Elduvíkar]
+1=420201
+2=420202
+
+[Til Fuglafjarðar]
+1=420301
+2=420302
+
+[Til Leirvíkar]
+1=420401
+
+[Til Gøtu]
+1=420501
+2=420502
+3=420503
+4=420504
+5=420505
+
+[Til Nes]
+1=420601
+2=420602
+3=420603
+
+[Til Runavíkar]
+1=420701
+2=420702
+3=420703
+4=420704
+5=420705
+6=420706
+7=420707
+8=420708
+9=420709
+
+[Til Sjóvar]
+1=420801
+2=420802
+3=420803
+4=420804
+5=420805
+
+[Til Skála]
+1=420901
+2=420902
+
+[Til Eiðis]
+1=421001
+2=421002
+3=421003
+
+[Til Sunda]
+1=421101
+2=421102
+3=421103
+
+[Til Funnings]
+1=421201
+
+[Til Gjáar]
+1=421301
+
+[Til Haldórsvíkar]
+1=430101
+2=430102
+3=430103
+
+[Til Saksunar]
+1=430201
+
+[Til Hvalvíkar]
+1=430301
+2=430302
+3=430303
+
+[Til Hósvíkar]
+1=430401
+
+[Til Kvívíkar]
+1=430601
+2=430602
+3=430603
+4=430604
+5=430605
+6=430606
+
+[Til Vestmanna]
+1=430701
+
+[Til Tórshavnar]
+1=430501
+2=430502
+3=430503
+4=430801
+5=470101
+6=470102
+7=470103
+8=470104
+9=470105
+10=470106
+11=470108
+12=430805
+13=430806
+
+[Til Kirkjubøar]
+1=430901
+2=430902
+
+[Til Hests]
+1=431001
+2=431002
+
+[Til Nólsoyar]
+1=431102
+
+[Til Sandavágs]
+1=440101
+
+[Til Miðvágs]
+1=440201
+2=440202
+
+[Til Sørvágs]
+1=440301
+
+[Til Bíggjar]
+1=440401
+2=440402
+
+[Til Mykines]
+1=440501
+
+[Til Skopunar]
+1=450201
+
+[Til Sands]
+1=450101
+
+[Til Skálavíkar]
+1=450301
+
+[Til Húsavíkar]
+1=450401
+2=450402
+3=450403
+
+[Til Skúvoyar]
+1=450501
+2=450502
+
+[Til Hvalbiar]
+1=460101
+2=460102
+
+[Til Tvøroyrar]
+1=460201
+2=460202
+3=460203
+4=460204
+5=460205
+
+[Til Fámjins]
+1=460301
+
+[Til Hovs]
+1=460401
+
+[Til Porkeris]
+1=460501
+
+[Til Vágs]
+1=460601
+2=460602
+
+[Til Sumbiar]
+1=460702
+2=460703
+3=460704
+4=460705
+
+[Til útlond]
+1=555555

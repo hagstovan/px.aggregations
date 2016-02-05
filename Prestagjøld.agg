@@ -1,0 +1,189 @@
+[Aggreg]
+Name=Prestagjøld
+Valueset=Prestagjøld
+Desc=Bygdir bólkaðar til prestagjøld
+1=Alt landið
+2=Norðoya e. prestagj.
+3=Norðoya v. prestagj.
+4=Fuglafj. prestagj.
+5=Nes prestagj.
+6=Glyvra prestagj.
+7=Sjóvar prestagj.
+8=Eiðis prestagj.
+9=Norðstr. prestagj.
+10=Suðurstr. e. og v. prestagj.
+11=Suðurstr. n. prestagj.
+12=Vága prestagj.
+13=Sandoyar prestagj.
+14=Suður. n. prestagj.
+15=Suður. s. prestagj.
+
+[Aggtext]
+1=Alt landið
+2=Norðoya e. prestagj.
+3=Norðoya v. prestagj.
+4=Fuglafj. prestagj.
+5=Nes prestagj.
+6=Glyvra prestagj.
+7=Sjóvar prestagj.
+8=Eiðis prestagj.
+9=Norðstr. prestagj.
+10=Suðurstr. e. og v. prestagj.
+11=Suðurstr. n. prestagj.
+12=Vága prestagj.
+13=Sandoyar prestagj.
+14=Suður. n. prestagj.
+15=Suður. s. prestagj.
+
+[Alt landið]
+1=999999
+
+[Norðoya e. prestagj.]
+1=410101
+2=410102
+3=410201
+4=410301
+5=410401
+6=410402
+7=410403
+8=410404
+9=410405
+
+[Norðoya v. prestagj.]
+1=410501
+2=410502
+3=410503
+4=410505
+5=410601
+6=410602
+7=410701
+8=410702
+9=410801
+10=410802
+
+[Fuglafj. prestagj.]
+1=420201
+2=420202
+3=420301
+4=420302
+5=420401
+
+[Nes prestagj.]
+1=420501
+2=420502
+3=420503
+4=420504
+5=420505
+6=420601
+7=420602
+8=420603
+9=420701
+
+[Glyvra prestagj.]
+1=420702
+2=420703
+3=420704
+4=420705
+5=420706
+6=420707
+7=420708
+8=420709
+
+[Sjóvar prestagj.]
+1=420101
+2=420801
+3=420802
+4=420803
+5=420804
+6=420805
+7=420901
+8=420902
+
+[Eiðis prestagj.]
+1=421001
+2=421002
+3=421003
+4=421101
+5=421102
+6=421103
+7=421201
+8=421301
+
+[Norðstr. prestagj.]
+1=430101
+2=430102
+3=430103
+4=430201
+5=430301
+6=430302
+7=430303
+8=430401
+9=430501
+10=430502
+11=430503
+12=430601
+13=430602
+14=430603
+15=430604
+16=430605
+17=430606
+18=430701
+
+[Suðurstr. e. og v. prestagj.]
+1=430801
+2=470101
+3=470104
+4=430805
+5=430806
+6=430901
+7=430902
+8=431001
+9=431002
+10=431102
+
+[Suðurstr. n. prestagj.]
+1=470102
+2=470103
+3=470105
+4=470106
+5=470108
+
+[Vága prestagj.]
+1=440101
+2=440201
+3=440202
+4=440301
+5=440401
+6=440402
+7=440501
+
+[Sandoyar prestagj.]
+1=450101
+2=450201
+3=450301
+4=450401
+5=450402
+6=450403
+7=450501
+8=450502
+
+[Suður. n. prestagj.]
+1=460101
+2=460102
+3=460201
+4=460202
+5=460203
+6=460204
+7=460205
+8=460301
+
+[Suður. s. prestagj.]
+1=460401
+2=460501
+3=460601
+4=460602
+5=460702
+6=460703
+7=460704
+8=460705
+
