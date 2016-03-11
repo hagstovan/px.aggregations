@@ -1,175 +1,175 @@
-ï»¿[Aggreg]
-Name=FrÃ¡ kommunum 2001-2004
-Valueset=FrÃ¡ bygdum
-Desc=FrÃ¡flyti bygdir bÃ³lkaÃ°ar til frÃ¡flyti kommunur
-1=Alt landiÃ°
-2=FrÃ¡ Fugloyar 
-3=FrÃ¡ SvÃ­noyar
-4=FrÃ¡ ViÃ°areiÃ°is
-5=FrÃ¡ Hvannasunds
-6=FrÃ¡ KlaksvÃ­kar
-7=FrÃ¡ Kunoyar
-8=FrÃ¡ Mikladals
-9=FrÃ¡ HÃºsa
-10=FrÃ¡ OyndafjarÃ°ar
-11=FrÃ¡ ElduvÃ­kar
-12=FrÃ¡ FuglafjarÃ°ar
-13=FrÃ¡ LeirvÃ­kar
-14=FrÃ¡ GÃ¸tu
-15=FrÃ¡ Nes
-16=FrÃ¡ RunavÃ­kar
-17=FrÃ¡ SjÃ³var
-18=FrÃ¡ SkÃ¡la
-19=FrÃ¡ EiÃ°is
-20=FrÃ¡ Sunda
-21=FrÃ¡ Funnings
-22=FrÃ¡ GjÃ¡ar
-23=FrÃ¡ HaldÃ³rsvÃ­kar
-24=FrÃ¡ Saksunar
-25=FrÃ¡ HvalvÃ­kar
-26=FrÃ¡ HÃ³svÃ­kar
-27=FrÃ¡ KvÃ­vÃ­kar
-28=FrÃ¡ Vestmanna
-29=FrÃ¡ TÃ³rshavnar
-30=FrÃ¡ KirkjubÃ¸ar
-31=FrÃ¡ Hests
-32=FrÃ¡ NÃ³lsoyar
-33=FrÃ¡ SandavÃ¡gs
-34=FrÃ¡ MiÃ°vÃ¡gs
-35=FrÃ¡ SÃ¸rvÃ¡gs
-36=FrÃ¡ BÃ­ggjar
-37=FrÃ¡ Mykines
-38=FrÃ¡ Skopunar
-39=FrÃ¡ Sands
-40=FrÃ¡ SkÃ¡lavÃ­kar
-41=FrÃ¡ HÃºsavÃ­kar
-42=FrÃ¡ SkÃºvoyar
-43=FrÃ¡ Hvalbiar
-44=FrÃ¡ TvÃ¸royrar
-45=FrÃ¡ FÃ¡mjins
-46=FrÃ¡ Hovs
-47=FrÃ¡ Porkeris
-48=FrÃ¡ VÃ¡gs
-49=FrÃ¡ Sumbiar
-50=FrÃ¡ Ãºtlondum
+[Aggreg]
+Name=Frá kommunum 2001-2004
+Valueset=Frá bygdum
+Desc=Fráflyti bygdir bólkağar til fráflyti kommunur
+1=Alt landiğ
+2=Frá Fugloyar 
+3=Frá Svínoyar
+4=Frá Viğareiğis
+5=Frá Hvannasunds
+6=Frá Klaksvíkar
+7=Frá Kunoyar
+8=Frá Mikladals
+9=Frá Húsa
+10=Frá Oyndafjarğar
+11=Frá Elduvíkar
+12=Frá Fuglafjarğar
+13=Frá Leirvíkar
+14=Frá Gøtu
+15=Frá Nes
+16=Frá Runavíkar
+17=Frá Sjóvar
+18=Frá Skála
+19=Frá Eiğis
+20=Frá Sunda
+21=Frá Funnings
+22=Frá Gjáar
+23=Frá Haldórsvíkar
+24=Frá Saksunar
+25=Frá Hvalvíkar
+26=Frá Hósvíkar
+27=Frá Kvívíkar
+28=Frá Vestmanna
+29=Frá Tórshavnar
+30=Frá Kirkjubøar
+31=Frá Hests
+32=Frá Nólsoyar
+33=Frá Sandavágs
+34=Frá Miğvágs
+35=Frá Sørvágs
+36=Frá Bíggjar
+37=Frá Mykines
+38=Frá Skopunar
+39=Frá Sands
+40=Frá Skálavíkar
+41=Frá Húsavíkar
+42=Frá Skúvoyar
+43=Frá Hvalbiar
+44=Frá Tvøroyrar
+45=Frá Fámjins
+46=Frá Hovs
+47=Frá Porkeris
+48=Frá Vágs
+49=Frá Sumbiar
+50=Frá útlondum
 
 [Aggtext]
-1=Alt landiÃ°
-2=FrÃ¡ Fugloyar 
-3=FrÃ¡ SvÃ­noyar
-4=FrÃ¡ ViÃ°areiÃ°is
-5=FrÃ¡ Hvannasunds
-6=FrÃ¡ KlaksvÃ­kar
-7=FrÃ¡ Kunoyar
-8=FrÃ¡ Mikladals
-9=FrÃ¡ HÃºsa
-10=FrÃ¡ OyndafjarÃ°ar
-11=FrÃ¡ ElduvÃ­kar
-12=FrÃ¡ FuglafjarÃ°ar
-13=FrÃ¡ LeirvÃ­kar
-14=FrÃ¡ GÃ¸tu
-15=FrÃ¡ Nes
-16=FrÃ¡ RunavÃ­kar
-17=FrÃ¡ SjÃ³var
-18=FrÃ¡ SkÃ¡la
-19=FrÃ¡ EiÃ°is
-20=FrÃ¡ Sunda
-21=FrÃ¡ Funnings
-22=FrÃ¡ GjÃ¡ar
-23=FrÃ¡ HaldÃ³rsvÃ­kar
-24=FrÃ¡ Saksunar
-25=FrÃ¡ HvalvÃ­kar
-26=FrÃ¡ HÃ³svÃ­kar
-27=FrÃ¡ KvÃ­vÃ­kar
-28=FrÃ¡ Vestmanna
-29=FrÃ¡ TÃ³rshavnar
-30=FrÃ¡ KirkjubÃ¸ar
-31=FrÃ¡ Hests
-32=FrÃ¡ NÃ³lsoyar
-33=FrÃ¡ SandavÃ¡gs
-34=FrÃ¡ MiÃ°vÃ¡gs
-35=FrÃ¡ SÃ¸rvÃ¡gs
-36=FrÃ¡ BÃ­ggjar
-37=FrÃ¡ Mykines
-38=FrÃ¡ Skopunar
-39=FrÃ¡ Sands
-40=FrÃ¡ SkÃ¡lavÃ­kar
-41=FrÃ¡ HÃºsavÃ­kar
-42=FrÃ¡ SkÃºvoyar
-43=FrÃ¡ Hvalbiar
-44=FrÃ¡ TvÃ¸royrar
-45=FrÃ¡ FÃ¡mjins
-46=FrÃ¡ Hovs
-47=FrÃ¡ Porkeris
-48=FrÃ¡ VÃ¡gs
-49=FrÃ¡ Sumbiar
-50=FrÃ¡ Ãºtlondum
+1=Alt landiğ
+2=Frá Fugloyar 
+3=Frá Svínoyar
+4=Frá Viğareiğis
+5=Frá Hvannasunds
+6=Frá Klaksvíkar
+7=Frá Kunoyar
+8=Frá Mikladals
+9=Frá Húsa
+10=Frá Oyndafjarğar
+11=Frá Elduvíkar
+12=Frá Fuglafjarğar
+13=Frá Leirvíkar
+14=Frá Gøtu
+15=Frá Nes
+16=Frá Runavíkar
+17=Frá Sjóvar
+18=Frá Skála
+19=Frá Eiğis
+20=Frá Sunda
+21=Frá Funnings
+22=Frá Gjáar
+23=Frá Haldórsvíkar
+24=Frá Saksunar
+25=Frá Hvalvíkar
+26=Frá Hósvíkar
+27=Frá Kvívíkar
+28=Frá Vestmanna
+29=Frá Tórshavnar
+30=Frá Kirkjubøar
+31=Frá Hests
+32=Frá Nólsoyar
+33=Frá Sandavágs
+34=Frá Miğvágs
+35=Frá Sørvágs
+36=Frá Bíggjar
+37=Frá Mykines
+38=Frá Skopunar
+39=Frá Sands
+40=Frá Skálavíkar
+41=Frá Húsavíkar
+42=Frá Skúvoyar
+43=Frá Hvalbiar
+44=Frá Tvøroyrar
+45=Frá Fámjins
+46=Frá Hovs
+47=Frá Porkeris
+48=Frá Vágs
+49=Frá Sumbiar
+50=Frá útlondum
 
-[Alt landiÃ°]
+[Alt landiğ]
 1=999999
 
-[FrÃ¡ Fugloyar]
+[Frá Fugloyar]
 1=410101
 2=410102
 
-[FrÃ¡ SvÃ­noyar]
+[Frá Svínoyar]
 1=410201
 
-[FrÃ¡ ViÃ°areiÃ°is]
+[Frá Viğareiğis]
 1=410301
 
-[FrÃ¡ Hvannasunds]
+[Frá Hvannasunds]
 1=410401
 2=410402
 3=410403
 4=410404
 5=410405
 
-[FrÃ¡ KlaksvÃ­kar]
+[Frá Klaksvíkar]
 1=410501
 2=410502
 3=410503
 4=410505
 
-[FrÃ¡ Kunoyar]
+[Frá Kunoyar]
 1=410601
 2=410602
 
-[FrÃ¡ Mikladals]
+[Frá Mikladals]
 1=410701
 2=410702
 
-[FrÃ¡ HÃºsa]
+[Frá Húsa]
 1=410801
 2=410802
 
-[FrÃ¡ OyndafjarÃ°ar]
+[Frá Oyndafjarğar]
 1=420101
 
-[FrÃ¡ ElduvÃ­kar]
+[Frá Elduvíkar]
 1=420201
 2=420202
 
-[FrÃ¡ FuglafjarÃ°ar]
+[Frá Fuglafjarğar]
 1=420301
 2=420302
 
-[FrÃ¡ LeirvÃ­kar]
+[Frá Leirvíkar]
 1=420401
 
-[FrÃ¡ GÃ¸tu]
+[Frá Gøtu]
 1=420501
 2=420502
 3=420503
 4=420504
 5=420505
 
-[FrÃ¡ Nes]
+[Frá Nes]
 1=420601
 2=420602
 3=420603
 
-[FrÃ¡ RunavÃ­kar]
+[Frá Runavíkar]
 1=420701
 2=420702
 3=420703
@@ -180,50 +180,50 @@ Desc=FrÃ¡flyti bygdir bÃ³lkaÃ°ar til frÃ¡flyti kommunur
 8=420708
 9=420709
 
-[FrÃ¡ SjÃ³var]
+[Frá Sjóvar]
 1=420801
 2=420802
 3=420803
 4=420804
 5=420805
 
-[FrÃ¡ SkÃ¡la]
+[Frá Skála]
 1=420901
 2=420902
 
-[FrÃ¡ EiÃ°is]
+[Frá Eiğis]
 1=421001
 2=421002
 3=421003
 
-[FrÃ¡ Sunda]
+[Frá Sunda]
 1=421101
 2=421102
 3=421103
 
-[FrÃ¡ Funnings]
+[Frá Funnings]
 1=421201
 
-[FrÃ¡ GjÃ¡ar]
+[Frá Gjáar]
 1=421301
 
-[FrÃ¡ HaldÃ³rsvÃ­kar]
+[Frá Haldórsvíkar]
 1=430101
 2=430102
 3=430103
 
-[FrÃ¡ Saksunar]
+[Frá Saksunar]
 1=430201
 
-[FrÃ¡ HvalvÃ­kar]
+[Frá Hvalvíkar]
 1=430301
 2=430302
 3=430303
 
-[FrÃ¡ HÃ³svÃ­kar]
+[Frá Hósvíkar]
 1=430401
 
-[FrÃ¡ KvÃ­vÃ­kar]
+[Frá Kvívíkar]
 1=430601
 2=430602
 3=430603
@@ -231,10 +231,10 @@ Desc=FrÃ¡flyti bygdir bÃ³lkaÃ°ar til frÃ¡flyti kommunur
 5=430605
 6=430606
 
-[FrÃ¡ Vestmanna]
+[Frá Vestmanna]
 1=430701
 
-[FrÃ¡ TÃ³rshavnar]
+[Frá Tórshavnar]
 1=430501
 2=430502
 3=430503
@@ -249,81 +249,81 @@ Desc=FrÃ¡flyti bygdir bÃ³lkaÃ°ar til frÃ¡flyti kommunur
 12=430805
 13=430806
 
-[FrÃ¡ KirkjubÃ¸ar]
+[Frá Kirkjubøar]
 1=430901
 2=430902
 
-[FrÃ¡ Hests]
+[Frá Hests]
 1=431001
 2=431002
 
-[FrÃ¡ NÃ³lsoyar]
+[Frá Nólsoyar]
 1=431102
 
-[FrÃ¡ SandavÃ¡gs]
+[Frá Sandavágs]
 1=440101
 
-[FrÃ¡ MiÃ°vÃ¡gs]
+[Frá Miğvágs]
 1=440201
 2=440202
 
-[FrÃ¡ SÃ¸rvÃ¡gs]
+[Frá Sørvágs]
 1=440301
 
-[FrÃ¡ BÃ­ggjar]
+[Frá Bíggjar]
 1=440401
 2=440402
 
-[FrÃ¡ Mykines]
+[Frá Mykines]
 1=440501
 
-[FrÃ¡ Skopunar]
+[Frá Skopunar]
 1=450201
 
-[FrÃ¡ Sands]
+[Frá Sands]
 1=450101
 
-[FrÃ¡ SkÃ¡lavÃ­kar]
+[Frá Skálavíkar]
 1=450301
 
-[FrÃ¡ HÃºsavÃ­kar]
+[Frá Húsavíkar]
 1=450401
 2=450402
 3=450403
 
-[FrÃ¡ SkÃºvoyar]
+[Frá Skúvoyar]
 1=450501
 2=450502
 
-[FrÃ¡ Hvalbiar]
+[Frá Hvalbiar]
 1=460101
 2=460102
 
-[FrÃ¡ TvÃ¸royrar]
+[Frá Tvøroyrar]
 1=460201
 2=460202
 3=460203
 4=460204
 5=460205
 
-[FrÃ¡ FÃ¡mjins]
+[Frá Fámjins]
 1=460301
 
-[FrÃ¡ Hovs]
+[Frá Hovs]
 1=460401
 
-[FrÃ¡ Porkeris]
+[Frá Porkeris]
 1=460501
 
-[FrÃ¡ VÃ¡gs]
+[Frá Vágs]
 1=460601
 2=460602
 
-[FrÃ¡ Sumbiar]
+[Frá Sumbiar]
 1=460702
 2=460703
 3=460704
 4=460705
 
-[FrÃ¡ Ãºtlondum]
+[Frá útlondum]
 1=555555
