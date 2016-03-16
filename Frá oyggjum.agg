@@ -1,63 +1,63 @@
-[Aggreg]
-Name=Fr· oyggjum
-Valueset=Fr· bygdum
-Desc=Fr·flyti bygdir bÛlkaar til fr·flyti oyggjar
-1=Alt landi
-2=Fr· Fugloy
-3=Fr· SvÌnoy
-4=Fr· Vioy
-5=Fr· Boroy
-6=Fr· Kunoy
-7=Fr· Kalsoy
-8=Fr· Eysturoy
-9=Fr· Streymoy
-10=Fr· NÛlsoy
-11=Fr· Hestoy
-12=Fr· Koltur
-13=Fr· V·goy
-14=Fr· Mykines
-15=Fr· Sandoy
-16=Fr· Sk˙gvoy
-17=Fr· StÛra DÌmun
-18=Fr· Suuroy
-19=Fr· ˙tlondum
+Ôªø[Aggreg]
+Name=Fr√° oyggjum
+Valueset=Fr√° bygdir
+Desc=Fr√°flyti bygdir b√≥lka√∞ar til fr√°flyti oyggjar
+1=Alt landi√∞
+2=Fr√° Fugloy
+3=Fr√° Sv√≠noy
+4=Fr√° Vi√∞oy
+5=Fr√° Bor√∞oy
+6=Fr√° Kunoy
+7=Fr√° Kalsoy
+8=Fr√° Eysturoy
+9=Fr√° Streymoy
+10=Fr√° N√≥lsoy
+11=Fr√° Hestoy
+12=Fr√° Koltur
+13=Fr√° V√°goy
+14=Fr√° Mykines
+15=Fr√° Sandoy
+16=Fr√° Sk√∫gvoy
+17=Fr√° St√≥ra D√≠mun
+18=Fr√° Su√∞uroy
+19=Fr√° √∫tlondum
 
 [Aggtext]
-1=Alt landi
-2=Fr· Fugloy
-3=Fr· SvÌnoy
-4=Fr· Vioy
-5=Fr· Boroy
-6=Fr· Kunoy
-7=Fr· Kalsoy
-8=Fr· Eysturoy
-9=Fr· Streymoy
-10=Fr· NÛlsoy
-11=Fr· Hestoy
-12=Fr· Koltur
-13=Fr· V·goy
-14=Fr· Mykines
-15=Fr· Sandoy
-16=Fr· Sk˙gvoy
-17=Fr· StÛra DÌmun
-18=Fr· Suuroy
-19=Fr· ˙tlondum
+1=Alt landi√∞
+2=Fr√° Fugloy
+3=Fr√° Sv√≠noy
+4=Fr√° Vi√∞oy
+5=Fr√° Bor√∞oy
+6=Fr√° Kunoy
+7=Fr√° Kalsoy
+8=Fr√° Eysturoy
+9=Fr√° Streymoy
+10=Fr√° N√≥lsoy
+11=Fr√° Hestoy
+12=Fr√° Koltur
+13=Fr√° V√°goy
+14=Fr√° Mykines
+15=Fr√° Sandoy
+16=Fr√° Sk√∫gvoy
+17=Fr√° St√≥ra D√≠mun
+18=Fr√° Su√∞uroy
+19=Fr√° √∫tlondum
 
-[Alt landi]
+[Alt landi√∞]
 1=999999
 
-[Fr· Fugloy]
+[Fr√° Fugloy]
 1=410101
 2=410102
 
-[Fr· SvÌnoy]
+[Fr√° Sv√≠noy]
 1=410201
 
-[Fr· Vioy]
+[Fr√° Vi√∞oy]
 1=410301
 2=410402
 
-[Fr· Boroy]
+[Fr√° Bor√∞oy]
 1=410401
 2=410403
 3=410404
@@ -67,17 +67,17 @@ Desc=Fr·flyti bygdir bÛlkaar til fr·flyti oyggjar
 7=410503
 8=410505
 
-[Fr· Kunoy]
+[Fr√° Kunoy]
 1=410601
 2=410602
 
-[Fr· Kalsoy]
+[Fr√° Kalsoy]
 1=410701
 2=410702
 3=410801
 4=410802
 
-[Fr· Eysturoy]
+[Fr√° Eysturoy]
 1=420101
 2=420201
 3=420202
@@ -117,7 +117,7 @@ Desc=Fr·flyti bygdir bÛlkaar til fr·flyti oyggjar
 37=421201
 38=421301
 
-[Fr· Streymoy]
+[Fr√° Streymoy]
 1=430101
 2=430102
 3=430103
@@ -148,16 +148,16 @@ Desc=Fr·flyti bygdir bÛlkaar til fr·flyti oyggjar
 28=430901
 29=430902
 
-[Fr· NÛlsoy]
+[Fr√° N√≥lsoy]
 1=431102
 
-[Fr· Hestoy]
+[Fr√° Hestoy]
 1=431001
 
-[Fr· Koltur]
+[Fr√° Koltur]
 1=431002
 
-[Fr· V·goy]
+[Fr√° V√°goy]
 1=440101
 2=440201
 3=440202
@@ -165,10 +165,10 @@ Desc=Fr·flyti bygdir bÛlkaar til fr·flyti oyggjar
 5=440401
 6=440402
 
-[Fr· Mykines]
+[Fr√° Mykines]
 1=440501
 
-[Fr· Sandoy]
+[Fr√° Sandoy]
 1=450101
 2=450201
 3=450301
@@ -176,13 +176,13 @@ Desc=Fr·flyti bygdir bÛlkaar til fr·flyti oyggjar
 5=450402
 6=450403
 
-[Fr· Sk˙gvoy]
+[Fr√° Sk√∫gvoy]
 1=450501
 
-[Fr· StÛra DÌmun]
+[Fr√° St√≥ra D√≠mun]
 1=450502
 
-[Fr· Suuroy]
+[Fr√° Su√∞uroy]
 1=460101
 2=460102
 3=460201
@@ -199,5 +199,5 @@ Desc=Fr·flyti bygdir bÛlkaar til fr·flyti oyggjar
 14=460704
 15=460705
 
-[Fr· ˙tlondum]
+[Fr√° √∫tlondum]
 1=555555
