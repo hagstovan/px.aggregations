@@ -1,5 +1,5 @@
 [Aggreg]
-Name=annual
+Name=Annual
 Valueset=month
 Desc=Annual
 1=Total(year)
