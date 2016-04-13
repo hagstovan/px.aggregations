@@ -1,8 +1,8 @@
 [Aggreg]
-Name=Annual
+Name=annual
 Valueset=month
 Desc=Annual
-1=Annual
+1=Total(year)
 
 [Aggtext]
 1=Total(year)
