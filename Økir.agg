@@ -2,15 +2,14 @@
 Name=Økir
 Valueset=Bygdir
 Desc=Bygdir bólkaðar til økir
-1=Alt landið
-2=Norðoyggjar
-3=Eysturoyar øki
-4=N-Streymoyar øki
-5=S-Streymoyar øki
-6=Vága øki
-7=Sandoyar øki
-8=Suðuroyar øki
-
+1=9999
+2=4100
+3=4200
+4=4300
+5=4700
+6=4400
+7=4500
+8=4600
 
 [Aggtext]
 1=Alt landið
@@ -22,10 +21,10 @@ Desc=Bygdir bólkaðar til økir
 7=Sandoyar øki
 8=Suðuroyar øki
 
-[Alt landið]
+[9999]
 1=999999
 
-[Norðoyggjar]
+[4100]
 1=410101
 2=410102
 3=410201
@@ -46,7 +45,7 @@ Desc=Bygdir bólkaðar til økir
 18=410801
 19=410802
 
-[Eysturoyar øki]
+[4200]
 1=421301
 2=421201
 3=420202
@@ -86,7 +85,7 @@ Desc=Bygdir bólkaðar til økir
 37=421102
 38=421103
 
-[N-Streymoyar øki]
+[4300]
 1=430103
 2=430101
 3=430102
@@ -105,7 +104,7 @@ Desc=Bygdir bólkaðar til økir
 16=430602
 17=430604
 
-[S-Streymoyar øki]
+[4700]
 1=470102
 2=470103
 3=470104
@@ -122,7 +121,7 @@ Desc=Bygdir bólkaðar til økir
 14=431002
 15=431102
 
-[Vága øki]
+[4400]
 1=440101
 2=440201
 3=440202
@@ -131,7 +130,7 @@ Desc=Bygdir bólkaðar til økir
 6=440402
 7=440501
 
-[Sandoyar øki]
+[4500]
 1=450201
 2=450301
 3=450402
@@ -141,7 +140,7 @@ Desc=Bygdir bólkaðar til økir
 7=450501
 8=450502
 
-[Suðuroyar øki]
+[4600]
 1=460102
 2=460101
 3=460201
@@ -157,5 +156,3 @@ Desc=Bygdir bólkaðar til økir
 13=460705
 14=460704
 15=460703
-
-

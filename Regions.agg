@@ -2,14 +2,14 @@
 Name=Regions
 Valueset=Village
 Desc=Villages grouped to regions
-1=Total Faroe Islands
-2=Norðoyggjar
-3=Eysturoy
-4=N-Streymoy
-5=S-Streymoy
-6=Vágar
-7=Sandoy
-8=Suðuroy
+1=9999
+2=4100
+3=4200
+4=4300
+5=4700
+6=4400
+7=4500
+8=4600
 
 [Aggtext]
 1=Total Faroe Islands
@@ -21,10 +21,10 @@ Desc=Villages grouped to regions
 7=Sandoy
 8=Suðuroy
 
-[Total Faroe Islands]
+[9999]
 1=999999
 
-[Norðoyggjar]
+[4100]
 1=410101
 2=410102
 3=410201
@@ -45,7 +45,7 @@ Desc=Villages grouped to regions
 18=410801
 19=410802
 
-[Eysturoy]
+[4200]
 1=421301
 2=421201
 3=420202
@@ -85,7 +85,7 @@ Desc=Villages grouped to regions
 37=421102
 38=421103
 
-[N-Streymoy]
+[4300]
 1=430103
 2=430101
 3=430102
@@ -104,7 +104,7 @@ Desc=Villages grouped to regions
 16=430602
 17=430604
 
-[S-Streymoy]
+[4700]
 1=470102
 2=470103
 3=470104
@@ -121,7 +121,7 @@ Desc=Villages grouped to regions
 14=431002
 15=431102
 
-[Vágar]
+[4400]
 1=440101
 2=440201
 3=440202
@@ -130,7 +130,7 @@ Desc=Villages grouped to regions
 6=440402
 7=440501
 
-[Sandoy]
+[4500]
 1=450201
 2=450301
 3=450402
@@ -140,7 +140,7 @@ Desc=Villages grouped to regions
 7=450501
 8=450502
 
-[Suðuroy]
+[4600]
 1=460102
 2=460101
 3=460201
@@ -156,5 +156,3 @@ Desc=Villages grouped to regions
 13=460705
 14=460704
 15=460703
-
-
