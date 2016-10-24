@@ -13,13 +13,13 @@ Desc=Villages grouped to regions
 
 [Aggtext]
 1=Total Faroe Islands
-2=Norðoyggjar
-3=Eysturoy
-4=N-Streymoy
-5=S-Streymoy
-6=Vágar
-7=Sandoy
-8=Suðuroy
+2=Norðoya region
+3=Eysturoyar region
+4=Norðstreymoyar region 
+5=Suðurstreymoyar region
+6=Vága region
+7=Sandoyar region
+8=Suðuroyar region
 
 [9999]
 1=999999
