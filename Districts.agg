@@ -2,13 +2,13 @@
 Name=Districts
 Valueset=Village
 Desc=Villages grouped by districts
-1=Total Faroe Islands 
-2=Norðoya district
-3=Eysturoya district
-4=Streymoyar district
-5=Vága district
-6=Sandoyar district
-7=Suðuroyar district
+1=9999
+2=4100
+3=4200
+4=4800
+5=4400
+6=4500
+7=4600
 
 [Aggtext]
 1=Total Faroe Islands 
@@ -19,10 +19,10 @@ Desc=Villages grouped by districts
 6=Sandoyar district
 7=Suðuroyar district
 
-[Total Faroe Islands]
+[9999]
 1=999999
 
-[Norðoya district]
+[4100]
 1=410101
 2=410102
 3=410201
@@ -43,7 +43,7 @@ Desc=Villages grouped by districts
 18=410801
 19=410802
 
-[Eysturoya district]
+[4200]
 1=420101
 2=420201
 3=420202
@@ -83,7 +83,7 @@ Desc=Villages grouped by districts
 37=421103
 38=421301
 
-[Streymoyar district]
+[4800]
 1=430101
 2=430102
 3=430103
@@ -117,7 +117,7 @@ Desc=Villages grouped by districts
 31=470106
 32=470108
 
-[Vága district]
+[4400]
 1=440101
 2=440201
 3=440202
@@ -126,7 +126,7 @@ Desc=Villages grouped by districts
 6=440402
 7=440501
 
-[Sandoyar district]
+[4500]
 1=450101
 2=450201
 3=450301
@@ -136,7 +136,7 @@ Desc=Villages grouped by districts
 7=450501
 8=450502
 
-[Suðuroyar district]
+[4600]
 1=460101
 2=460102
 3=460201
