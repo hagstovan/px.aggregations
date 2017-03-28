@@ -6,11 +6,12 @@ Type=V
 1=Districts.agg
 2=Regions.agg
 3=Islands.agg
-4=Municipalities after 2009.agg
-5=Municipalities 2005-2008.agg
-6=Municipalities 2001-2004.agg
-7=Municipalities 1997-2000.agg
-8=Municipalities before 1997.agg
+4=Municipalities 1. Jan. 2017.agg
+5=Municipalities 2009-2016.agg
+6=Municipalities 2005-2008.agg
+7=Municipalities 2001-2004.agg
+8=Municipalities 1997-2000.agg
+9=Municipalities before 1997.agg
 [Domain]
 1=village
 [Valuecode]

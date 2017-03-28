@@ -5,11 +5,12 @@ Type=V
 [Aggreg]
 1=Til sýslur.agg
 2=Til oyggjar.agg
-3=Til kommunur 1. jan. 2009.agg
-4=Til kommunur 2005-2008.agg
-5=Til kommunur 2001-2004.agg
-6=Til kommunur 1997-2000.agg
-7=Til kommunur áðrenn 1997.agg
+3=Til kommunur 1. jan. 2017.agg
+4=Til kommunur 2009-2016.agg
+5=Til kommunur 2005-2008.agg
+6=Til kommunur 2001-2004.agg
+7=Til kommunur 1997-2000.agg
+8=Til kommunur áðrenn 1997.agg
 [Domain]
 1=tilbygd
 [Valuecode]

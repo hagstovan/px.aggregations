@@ -5,11 +5,12 @@ Type=V
 [Aggreg]
 1=Frá sýslum.agg
 2=Frá oyggjum.agg
-3=Frá kommunum 1. jan. 2009.agg
-4=Frá kommunum 2005-2008.agg
-5=Frá kommunum 2001-2004.agg
-6=Frá kommunum 1997-2000.agg
-7=Frá kommunum áðrenn 1997.agg
+3=Frá kommunum 1. jan. 2017.agg
+4=Frá kommunum 2009-2016.agg
+5=Frá kommunum 2005-2008.agg
+6=Frá kommunum 2001-2004.agg
+7=Frá kommunum 1997-2000.agg
+8=Frá kommunum áðrenn 1997.agg
 [Domain]
 1=frabygd
 [Valuecode]

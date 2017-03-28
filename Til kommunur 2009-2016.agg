@@ -1,0 +1,255 @@
+[Aggreg]
+Name=Til kommunur 2009-2016
+Valueset=Til bygdir
+Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
+1=Alt landið
+2=Til Fugloyar
+3=Til Viðareiðis
+4=Til Hvannasunds
+5=Til Klaksvíkar
+6=Til Kunoyar
+7=Til Húsa
+8=Til Fuglafjarðar
+9=Til Eystur
+10=Til Nes
+11=Til Runavíkar
+12=Til Sjóvar
+13=Til Eiðis
+14=Til Sunda
+15=Til Tórshavnar
+16=Til Kvívíkar
+17=Til Vestmanna
+18=Til Vága
+19=Til Sørvágs
+20=Til Skopunar
+21=Til Sands
+22=Til Skálavíkar
+23=Til Húsavíkar
+24=Til Skúvoyar
+25=Til Hvalbiar
+26=Til Tvøroyrar
+27=Til Fámjins
+28=Til Hovs
+29=Til Porkeris
+30=Til Vágs
+31=Til Sumbiar
+32=Til útlond
+
+[Aggtext]
+1=Alt landið
+2=Til Fugloyar
+3=Til Viðareiðis
+4=Til Hvannasunds
+5=Til Klaksvíkar
+6=Til Kunoyar
+7=Til Húsa
+8=Til Fuglafjarðar
+9=Til Eystur
+10=Til Nes
+11=Til Runavíkar
+12=Til Sjóvar
+13=Til Eiðis
+14=Til Sunda
+15=Til Tórshavnar
+16=Til Kvívíkar
+17=Til Vestmanna
+18=Til Vága
+19=Til Sørvágs
+20=Til Skopunar
+21=Til Sands
+22=Til Skálavíkar
+23=Til Húsavíkar
+24=Til Skúvoyar
+25=Til Hvalbiar
+26=Til Tvøroyrar
+27=Til Fámjins
+28=Til Hovs
+29=Til Porkeris
+30=Til Vágs
+31=Til Sumbiar
+32=Til útlond
+
+[Alt landið]
+1=999999
+
+[Til Fugloyar]
+1=410101
+2=410102
+
+[Til Viðareiðis]
+1=410301
+
+[Til Hvannasunds]
+1=410401
+2=410402
+3=410403
+4=410404
+5=410405
+
+[Til Klaksvíkar]
+1=410501
+2=410502
+3=410503
+4=410505
+5=410701
+6=410702
+7=410201
+
+[Til Kunoyar]
+1=410601
+2=410602
+
+[Til Húsa]
+1=410801
+2=410802
+
+[Til Fuglafjarðar]
+1=420301
+2=420302
+
+[Til Eystur]
+1=420401
+2=420501
+3=420502
+4=420503
+5=420504
+6=420505
+
+[Til Nes]
+1=420601
+2=420602
+3=420603
+
+[Til Runavíkar]
+1=420101
+2=420201
+3=420202
+4=420701
+5=420702
+6=420703
+7=420704
+8=420705
+9=420706
+10=420707
+11=420708
+12=420709
+13=420901
+14=420902
+15=421201
+
+[Til Sjóvar]
+1=420801
+2=420802
+3=420803
+4=420804
+5=420805
+
+[Til Eiðis]
+1=421001
+2=421002
+3=421003
+
+[Til Sunda]
+1=421101
+2=421102
+3=421103
+4=421301
+5=430101
+6=430102
+7=430103
+8=430201
+9=430301
+10=430302
+11=430303
+12=430401
+
+[Til Tórshavnar]
+1=430501
+2=430502
+3=430503
+4=430801
+5=470101
+6=470102
+7=470103
+8=470104
+9=470105
+10=470106
+11=470108
+12=430805
+13=430806
+14=430901
+15=430902
+16=431001
+17=431002
+18=431102
+
+[Til Kvívíkar]
+1=430601
+2=430602
+3=430604
+4=430605
+5=430606
+
+[Til Vestmanna]
+1=430701
+
+[Til Vága]
+1=440101
+2=440201
+3=440202
+
+[Til Sørvágs]
+1=440301
+2=440401
+3=440402
+4=440501
+
+[Til Skopunar]
+1=450201
+
+[Til Sands]
+1=450101
+
+[Til Skálavíkar]
+1=450301
+
+[Til Húsavíkar]
+1=450401
+2=450402
+3=450403
+
+[Til Skúvoyar]
+1=450501
+2=450502
+
+[Til Hvalbiar]
+1=460101
+2=460102
+
+[Til Tvøroyrar]
+1=460201
+2=460202
+3=460203
+4=460204
+5=460205
+
+[Til Fámjins]
+1=460301
+
+[Til Hovs]
+1=460401
+
+[Til Porkeris]
+1=460501
+
+[Til Vágs]
+1=460601
+
+[Til Sumbiar]
+1=460702
+2=460703
+3=460704
+4=460705
+
+[Til útlond]
+1=555555

@@ -5,11 +5,12 @@ Type=V
 [Aggreg]
 1=From districts.agg
 2=From islands.agg
-3=From municipalities 1. Jan. 2009.agg
-4=From municipalities 2005-2008.agg
-5=From municipalities 2001-2004.agg
-6=From municipalities 1997-2000.agg
-7=From municipalities before 1997.agg
+3=From municipalities 1. Jan. 2017.agg
+4=From municipalities 2009-2016.agg
+5=From municipalities 2005-2008.agg
+6=From municipalities 2001-2004.agg
+7=From municipalities 1997-2000.agg
+8=From municipalities before 1997.agg
 [Domain]
 1=emigration
 [Valuecode]

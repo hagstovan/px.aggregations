@@ -1,0 +1,252 @@
+[Aggreg]
+Name=From municipalities 1. Jan. 2017
+Valueset=Emigration
+Desc=Emigration villages aggregated to emigration municipalities
+1=Total Faroe Islands
+2=From Fugloyar
+3=From Viðareiðis
+4=From Hvannasunds
+5=From Klaksvíkar
+6=From Kunoyar
+7=From Fuglafjarðar
+8=From Eystur
+9=From Nes
+10=From Runavíkar
+11=From Sjóvar
+12=From Eiðis
+13=From Sunda
+14=From Tórshavnar
+15=From Kvívíkar
+16=From Vestmanna
+17=From Vága
+18=From Sørvágs
+19=From Skopunar
+20=From Sands
+21=From Skálavíkar
+22=From Húsavíkar
+23=From Skúvoyar
+24=From Hvalbiar
+25=From Tvøroyrar
+26=From Fámjins
+27=From Hovs
+28=From Porkeris
+29=From Vágs
+30=From Sumbiar
+31=From abroad
+
+[Aggtext]
+1=Total Faroe Islands
+2=From Fugloyar
+3=From Viðareiðis
+4=From Hvannasunds
+5=From Klaksvíkar
+6=From Kunoyar
+7=From Fuglafjarðar
+8=From Eystur
+9=From Nes
+10=From Runavíkar
+11=From Sjóvar
+12=From Eiðis
+13=From Sunda
+14=From Tórshavnar
+15=From Kvívíkar
+16=From Vestmanna
+17=From Vága
+18=From Sørvágs
+19=From Skopunar
+20=From Sands
+21=From Skálavíkar
+22=From Húsavíkar
+23=From Skúvoyar
+24=From Hvalbiar
+25=From Tvøroyrar
+26=From Fámjins
+27=From Hovs
+28=From Porkeris
+29=From Vágs
+30=From Sumbiar
+31=From abroad
+
+[Total Faroe Islands]
+1=999999
+
+[From Fugloyar]
+1=410101
+2=410102
+
+[From Viðareiðis]
+1=410301
+
+[From Hvannasunds]
+1=410401
+2=410402
+3=410403
+4=410404
+5=410405
+
+[From Klaksvíkar]
+1=410501
+2=410502
+3=410503
+4=410505
+5=410701
+6=410702
+7=410201
+8=410801
+9=410802
+
+[From Kunoyar]
+1=410601
+2=410602
+
+[From Fuglafjarðar]
+1=420301
+2=420302
+
+[From Eystur]
+1=420401
+2=420501
+3=420502
+4=420503
+5=420504
+6=420505
+
+[From Nes]
+1=420601
+2=420602
+3=420603
+
+[From Runavíkar]
+1=420101
+2=420201
+3=420202
+4=420701
+5=420702
+6=420703
+7=420704
+8=420705
+9=420706
+10=420707
+11=420708
+12=420709
+13=420901
+14=420902
+15=421201
+
+[From Sjóvar]
+1=420801
+2=420802
+3=420803
+4=420804
+5=420805
+
+
+[From Eiðis]
+1=421001
+2=421002
+3=421003
+
+[From Sunda]
+1=421101
+2=421102
+3=421103
+4=421301
+5=430101
+6=430102
+7=430103
+8=430201
+9=430301
+10=430302
+11=430303
+12=430401
+
+[From Tórshavnar]
+1=430501
+2=430502
+3=430503
+4=430801
+5=470101
+6=470102
+7=470103
+8=470104
+9=470105
+10=470106
+11=470108
+12=430805
+13=430806
+14=430901
+15=430902
+16=431001
+17=431002
+18=431102
+
+[From Kvívíkar]
+1=430601
+2=430602
+3=430604
+4=430605
+5=430606
+
+[From Vestmanna]
+1=430701
+
+[From Vága]
+1=440101
+2=440201
+3=440202
+
+[From Sørvágs]
+1=440301
+2=440401
+3=440402
+4=440501
+
+[From Skopunar]
+1=450201
+
+[From Sands]
+1=450101
+
+[From Skálavíkar]
+1=450301
+
+[From Húsavíkar]
+1=450401
+2=450402
+3=450403
+
+[From Skúvoyar]
+1=450501
+2=450502
+
+[From Hvalbiar]
+1=460101
+2=460102
+
+[From Tvøroyrar]
+1=460201
+2=460202
+3=460203
+4=460204
+5=460205
+
+[From Fámjins]
+1=460301
+
+[From Hovs]
+1=460401
+
+[From Porkeris]
+1=460501
+
+[From Vágs]
+1=460601
+
+[From Sumbiar]
+1=460702
+2=460703
+3=460704
+4=460705
+
+[From abroad]
+1=555555
