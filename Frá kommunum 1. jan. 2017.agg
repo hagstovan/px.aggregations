@@ -2,37 +2,37 @@
 Name=Frá kommunum 1. jan. 2017
 Valueset=Frá bygdir
 Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
-1=Alt landið
-2=Frá Fugloyar
-3=Frá Viðareiðis
-4=Frá Hvannasunds
-5=Frá Klaksvíkar
-6=Frá Kunoyar
-7=Frá Fuglafjarðar
-8=Frá Eystur
-9=Frá Nes
-10=Frá Runavíkar
-11=Frá Sjóvar
-12=Frá Eiðis
-13=Frá Sunda
-14=Frá Tórshavnar
-15=Frá Kvívíkar
-16=Frá Vestmanna
-17=Frá Vága
-18=Frá Sørvágs
-19=Frá Skopunar
-20=Frá Sands
-21=Frá Skálavíkar
-22=Frá Húsavíkar
-23=Frá Skúvoyar
-24=Frá Hvalbiar
-25=Frá Tvøroyrar
-26=Frá Fámjins
-27=Frá Hovs
-28=Frá Porkeris
-29=Frá Vágs
-30=Frá Sumbiar
-31=Frá útlondum
+1=9999
+2=4101
+3=4103
+4=4104
+5=4105
+6=4106
+7=4203
+8=4205
+9=4206
+10=4207
+11=4208
+12=4210
+13=4211
+14=4701
+15=4306
+16=4307
+17=4402
+18=4403
+19=4502
+20=4501
+21=4503
+22=4504
+23=4505
+24=4601
+25=4602
+26=4603
+27=4604
+28=4605
+29=4606
+30=4607
+31=5555
 
 [Aggtext]
 1=Alt landið
@@ -66,25 +66,25 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 29=Frá Vágs
 30=Frá Sumbiar
 31=Frá útlondum
-
-[Alt landið]
+2
+[9999]
 1=999999
 
-[Frá Fugloyar]
+[4101]
 1=410101
 2=410102
 
-[Frá Viðareiðis]
+[4103]
 1=410301
 
-[Frá Hvannasunds]
+[4104]
 1=410401
 2=410402
 3=410403
 4=410404
 5=410405
 
-[Frá Klaksvíkar]
+[4105]
 1=410201
 2=410501
 3=410502
@@ -95,15 +95,15 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 8=410801
 9=410802
 
-[Frá Kunoyar]
+[4106]
 1=410601
 2=410602
 
-[Frá Fuglafjarðar]
+[4203]
 1=420301
 2=420302
 
-[Frá Eystur]
+[4205]
 1=420401
 2=420501
 3=420502
@@ -111,12 +111,12 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 5=420504
 6=420505
 
-[Frá Nes]
+[4206]
 1=420601
 2=420602
 3=420603
 
-[Frá Runavíkar]
+[4207]
 1=420101
 2=420201
 3=420202
@@ -133,19 +133,19 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 14=420902
 15=421201
 
-[Frá Sjóvar]
+[4208]
 1=420801
 2=420802
 3=420803
 4=420804
 5=420805
 
-[Frá Eiðis]
+[4210]
 1=421001
 2=421002
 3=421003
 
-[Frá Sunda]
+[4211]
 1=421101
 2=421102
 3=421103
@@ -159,7 +159,7 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 11=430303
 12=430401
 
-[Frá Tórshavnar]
+[4701]
 1=430501
 2=430502
 3=430503
@@ -179,73 +179,73 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 17=431002
 18=431102
 
-[Frá Kvívíkar]
+[4306]
 1=430601
 2=430602
 3=430604
 4=430605
 5=430606
 
-[Frá Vestmanna]
+[4307]
 1=430701
 
-[Frá Miðvágs]
+[4402]
 1=440101
 3=440201
 3=440202
 
-[Frá Sørvágs]
+[4403]
 1=440301
 2=440401
 3=440402
 4=440501
 
-[Frá Skopunar]
+[4502]
 1=450201
 
-[Frá Sands]
+[4501]
 1=450101
 
-[Frá Skálavíkar]
+[4503]
 1=450301
 
-[Frá Húsavíkar]
+[4504]
 1=450401
 2=450402
 3=450403
 
-[Frá Skúvoyar]
+[4505]
 1=450501
 2=450502
 
-[Frá Hvalbiar]
+[4601]
 1=460101
 2=460102
 
-[Frá Tvøroyrar]
+[4602]
 1=460201
 2=460202
 3=460203
 4=460204
 5=460205
 
-[Frá Fámjins]
+[4603]
 1=460301
 
-[Frá Hovs]
+[4604]
 1=460401
 
-[Frá Porkeris]
+[4605]
 1=460501
 
-[Frá Vágs]
+[4606]
 1=460601
 
-[Frá Sumbiar]
+[4607]
 1=460702
 2=460703
 3=460704
 4=460705
 
-[Frá útlondum]
+[5555]
 1=555555

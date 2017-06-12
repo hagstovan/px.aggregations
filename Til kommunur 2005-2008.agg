@@ -2,42 +2,42 @@
 Name=Til kommunur 2005-2008
 Valueset=Til bygdir
 Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
-1=Alt landið
-2=Til Fugloyar
-3=Til Svínoyar
-4=Til Viðareiðis
-5=Til Hvannasunds
-6=Til Klaksvíkar
-7=Til Kunoyar
-8=Til Húsa
-9=Til Fuglafjarðar
-10=Til Leirvíkar
-11=Til Gøtu
-12=Til Nes
-13=Til Runavíkar
-14=Til Sjóvar
-15=Til Funnings
-16=Til Eiðis
-17=Til Sunda
-18=Til Tórshavnar
-19=Til Kvívíkar
-20=Til Vestmanna
-21=Til Sandavágs
-22=Til Miðvágs
-23=Til Sørvágs
-24=Til Skopunar
-25=Til Sands
-26=Til Skálavíkar
-27=Til Húsavíkar
-28=Til Skúvoyar
-29=Til Hvalbiar
-30=Til Tvøroyrar
-31=Til Fámjins
-32=Til Hovs
-33=Til Porkeris
-34=Til Vágs
-35=Til Sumbiar
-36=Til útlond
+1=9999
+2=4101
+3=4102
+4=4103
+5=4104
+6=4105
+7=4106
+8=4108
+9=4203
+10=4204
+11=4205
+12=4206
+13=4207
+14=4208
+15=4212
+16=4210
+17=4211
+18=4701
+19=4306
+20=4307
+21=4401
+22=4402
+23=4403
+24=4502
+25=4501
+26=4503
+27=4504
+28=4505
+29=4601
+30=4602
+31=4603
+32=4604
+33=4605
+34=4606
+35=4607
+36=5555
 
 [Aggtext]
 1=Alt landið
@@ -77,27 +77,27 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 35=Til Sumbiar
 36=Til útlond
 
-[Alt landið]
+[9999]
 1=999999
 
-[Til Fugloyar]
+[4101]
 1=410101
 2=410102
 
-[Til Svínoyar]
+[4102]
 1=410201
 
-[Til Viðareiðis]
+[4103]
 1=410301
 
-[Til Hvannasunds]
+[4104]
 1=410401
 2=410402
 3=410403
 4=410404
 5=410405
 
-[Til Klaksvíkar]
+[4105]
 1=410501
 2=410502
 3=410503
@@ -105,34 +105,34 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 5=410701
 6=410702
 
-[Til Kunoyar]
+[4106]
 1=410601
 2=410602
 
-[Til Húsa]
+[4108]
 1=410801
 2=410802
 
-[Til Fuglafjarðar]
+[4203]
 1=420301
 2=420302
 
-[Til Leirvíkar]
+[4204]
 1=420401
 
-[Til Gøtu]
+[4205]
 1=420501
 2=420502
 3=420503
 4=420504
 5=420505
 
-[Til Nes]
+[4206]
 1=420601
 2=420602
 3=420603
 
-[Til Runavíkar]
+[4207]
 1=420101
 2=420201
 3=420202
@@ -148,22 +148,22 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 13=420901
 14=420902
 
-[Til Sjóvar]
+[4208]
 1=420801
 2=420802
 3=420803
 4=420804
 5=420805
 
-[Til Funnings]
+[4212]
 1=421201
 
-[Til Eiðis]
+[4210]
 1=421001
 2=421002
 3=421003
 
-[Til Sunda]
+[4211]
 1=421101
 2=421102
 3=421103
@@ -177,7 +177,7 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 11=430303
 12=430401
 
-[Til Tórshavnar]
+[4701]
 1=430501
 2=430502
 3=430503
@@ -197,75 +197,75 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 17=431002
 18=431102
 
-[Til Kvívíkar]
+[4306]
 1=430601
 2=430602
 3=430604
 4=430605
 5=430606
 
-[Til Vestmanna]
+[4307]
 1=430701
 
-[Til Sandavágs]
+[4401]
 1=440101
 
-[Til Miðvágs]
+[4402]
 1=440201
 2=440202
 
-[Til Sørvágs]
+[4403]
 1=440301
 2=440401
 3=440402
 4=440501
 
-[Til Skopunar]
+[4502]
 1=450201
 
-[Til Sands]
+[4501]
 1=450101
 
-[Til Skálavíkar]
+[4503]
 1=450301
 
-[Til Húsavíkar]
+[4504]
 1=450401
 2=450402
 3=450403
 
-[Til Skúvoyar]
+[4505]
 1=450501
 2=450502
 
-[Til Hvalbiar]
+[4601]
 1=460101
 2=460102
 
-[Til Tvøroyrar]
+[4602]
 1=460201
 2=460202
 3=460203
 4=460204
 5=460205
 
-[Til Fámjins]
+[4603]
 1=460301
 
-[Til Hovs]
+[4604]
 1=460401
 
-[Til Porkeris]
+[4605]
 1=460501
 
-[Til Vágs]
+[4606]
 1=460601
 
-[Til Sumbiar]
+[4607]
 1=460702
 2=460703
 3=460704
 4=460705
 
-[Til útlond]
+[5555]
 1=555555

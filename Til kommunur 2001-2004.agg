@@ -2,60 +2,60 @@
 Name=Til kommunur 2001-2004
 Valueset=Til bygdir
 Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
-1=Alt landið
-2=Til Fugloyar 
-3=Til Svínoyar
-4=Til Viðareiðis
-5=Til Hvannasunds
-6=Til Klaksvíkar
-7=Til Kunoyar
-8=Til Mikladals
-9=Til Húsa
-10=Til Oyndafjarðar
-11=Til Elduvíkar
-12=Til Fuglafjarðar
-13=Til Leirvíkar
-14=Til Gøtu
-15=Til Nes
-16=Til Runavíkar
-17=Til Sjóvar
-18=Til Skála
-19=Til Eiðis
-20=Til Sunda
-21=Til Funnings
-22=Til Gjáar
-23=Til Haldórsvíkar
-24=Til Saksunar
-25=Til Hvalvíkar
-26=Til Hósvíkar
-27=Til Kvívíkar
-28=Til Vestmanna
-29=Til Tórshavnar
-30=Til Kirkjubøar
-31=Til Hests
-32=Til Nólsoyar
-33=Til Sandavágs
-34=Til Miðvágs
-35=Til Sørvágs
-36=Til Bíggjar
-37=Til Mykines
-38=Til Skopunar
-39=Til Sands
-40=Til Skálavíkar
-41=Til Húsavíkar
-42=Til Skúvoyar
-43=Til Hvalbiar
-44=Til Tvøroyrar
-45=Til Fámjins
-46=Til Hovs
-47=Til Porkeris
-48=Til Vágs
-49=Til Sumbiar
-50=Til útlond
+1=9999
+2=4101
+3=4102
+4=4103
+5=4104
+6=4105
+7=4106
+8=4107
+9=4108
+10=4201
+11=4202
+12=4203
+13=4204
+14=4205
+15=4206
+16=4207
+17=4208
+18=4209
+19=4210
+20=4211
+21=4212
+22=4213
+23=4301
+24=4302
+25=4303
+26=4304
+27=4306
+28=4307
+29=4701
+30=4309
+31=4310
+32=4311
+33=4401
+34=4402
+35=4403
+36=4404
+37=4405
+38=4502
+39=4501
+40=4503
+41=4504
+42=4505
+43=4601
+44=4602
+45=4603
+46=4604
+47=4605
+48=4606
+49=4607
+50=5555
 
 [Aggtext]
 1=Alt landið
-2=Til Fugloyar 
+2=Til Fugloyar
 3=Til Svínoyar
 4=Til Viðareiðis
 5=Til Hvannasunds
@@ -105,71 +105,71 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 49=Til Sumbiar
 50=Til útlond
 
-[Alt landið]
+[9999]
 1=999999
 
-[Til Fugloyar ]
+[4101]
 1=410101
 2=410102
 
-[Til Svínoyar]
+[4102]
 1=410201
 
-[Til Viðareiðis]
+[4103]
 1=410301
 
-[Til Hvannasunds]
+[4104]
 1=410401
 2=410402
 3=410403
 4=410404
 5=410405
 
-[Til Klaksvíkar]
+[4105]
 1=410501
 2=410502
 3=410503
 4=410505
 
-[Til Kunoyar]
+[4106]
 1=410601
 2=410602
 
-[Til Mikladals]
+[4107]
 1=410701
 2=410702
 
-[Til Húsa]
+[4108]
 1=410801
 2=410802
 
-[Til Oyndafjarðar]
+[4201]
 1=420101
 
-[Til Elduvíkar]
+[4202]
 1=420201
 2=420202
 
-[Til Fuglafjarðar]
+[4203]
 1=420301
 2=420302
 
-[Til Leirvíkar]
+[4204]
 1=420401
 
-[Til Gøtu]
+[4205]
 1=420501
 2=420502
 3=420503
 4=420504
 5=420505
 
-[Til Nes]
+[4206]
 1=420601
 2=420602
 3=420603
 
-[Til Runavíkar]
+[4207]
 1=420701
 2=420702
 3=420703
@@ -180,50 +180,50 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 8=420708
 9=420709
 
-[Til Sjóvar]
+[4208]
 1=420801
 2=420802
 3=420803
 4=420804
 5=420805
 
-[Til Skála]
+[4209]
 1=420901
 2=420902
 
-[Til Eiðis]
+[4210]
 1=421001
 2=421002
 3=421003
 
-[Til Sunda]
+[4211]
 1=421101
 2=421102
 3=421103
 
-[Til Funnings]
+[4212]
 1=421201
 
-[Til Gjáar]
+[4213]
 1=421301
 
-[Til Haldórsvíkar]
+[4301]
 1=430101
 2=430102
 3=430103
 
-[Til Saksunar]
+[4302]
 1=430201
 
-[Til Hvalvíkar]
+[4303]
 1=430301
 2=430302
 3=430303
 
-[Til Hósvíkar]
+[4304]
 1=430401
 
-[Til Kvívíkar]
+[4306]
 1=430601
 2=430602
 3=430603
@@ -231,10 +231,10 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 5=430605
 6=430606
 
-[Til Vestmanna]
+[4307]
 1=430701
 
-[Til Tórshavnar]
+[4701]
 1=430501
 2=430502
 3=430503
@@ -249,81 +249,81 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti kommunur
 12=430805
 13=430806
 
-[Til Kirkjubøar]
+[4309]
 1=430901
 2=430902
 
-[Til Hests]
+[4310]
 1=431001
 2=431002
 
-[Til Nólsoyar]
+[4311]
 1=431102
 
-[Til Sandavágs]
+[4401]
 1=440101
 
-[Til Miðvágs]
+[4402]
 1=440201
 2=440202
 
-[Til Sørvágs]
+[4403]
 1=440301
 
-[Til Bíggjar]
+[4404]
 1=440401
 2=440402
 
-[Til Mykines]
+[4405]
 1=440501
 
-[Til Skopunar]
+[4502]
 1=450201
 
-[Til Sands]
+[4501]
 1=450101
 
-[Til Skálavíkar]
+[4503]
 1=450301
 
-[Til Húsavíkar]
+[4504]
 1=450401
 2=450402
 3=450403
 
-[Til Skúvoyar]
+[4505]
 1=450501
 2=450502
 
-[Til Hvalbiar]
+[4601]
 1=460101
 2=460102
 
-[Til Tvøroyrar]
+[4602]
 1=460201
 2=460202
 3=460203
 4=460204
 5=460205
 
-[Til Fámjins]
+[4603]
 1=460301
 
-[Til Hovs]
+[4604]
 1=460401
 
-[Til Porkeris]
+[4605]
 1=460501
 
-[Til Vágs]
+[4606]
 1=460601
 2=460602
 
-[Til Sumbiar]
+[4607]
 1=460702
 2=460703
 3=460704
 4=460705
 
-[Til útlond]
+[5555]
 1=555555
