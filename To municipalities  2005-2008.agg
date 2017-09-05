@@ -2,42 +2,42 @@
 Name=To municipalities 2005-2008
 Valueset=Immigration
 Desc=Immigration villages aggregated to immigration municipalities
-1=Total Faroe Islands
-2=To Fugloyar
-3=To Svínoyar
-4=To Viðareiðis
-5=To Hvannasunds
-6=To Klaksvíkar
-7=To Kunoyar
-8=To Húsa
-9=To Fuglafjarðar
-10=To Leirvíkar
-11=To Gøtu
-12=To Nes
-13=To Runavíkar
-14=To Sjóvar
-15=To Funnings
-16=To Eiðis
-17=To Sunda
-18=To Tórshavnar
-19=To Kvívíkar
-20=To Vestmanna
-21=To Sandavágs
-22=To Miðvágs
-23=To Sørvágs
-24=To Skopunar
-25=To Sands
-26=To Skálavíkar
-27=To Húsavíkar
-28=To Skúvoyar
-29=To Hvalbiar
-30=To Tvøroyrar
-31=To Fámjins
-32=To Hovs
-33=To Porkeris
-34=To Vágs
-35=To Sumbiar
-36=To abroad
+1=9999
+2=4101
+3=4102
+4=4103
+5=4104
+6=4105
+7=4106
+8=4108
+9=4203
+10=4204
+11=4205
+12=4206
+13=4207
+14=4208
+15=4212
+16=4210
+17=4211
+18=4701
+19=4306
+20=4307
+21=4401
+22=4402
+23=4403
+24=4502
+25=4501
+26=4503
+27=4504
+28=4505
+29=4601
+30=4602
+31=4603
+32=4604
+33=4605
+34=4606
+35=4607
+36=5555
 
 [Aggtext]
 1=Total Faroe Islands
@@ -77,27 +77,27 @@ Desc=Immigration villages aggregated to immigration municipalities
 35=To Sumbiar
 36=To abroad
 
-[Total Faroe Islands]
+[9999]
 1=999999
 
-[To Fugloyar]
+[4101]
 1=410101
 2=410102
 
-[To Svínoyar]
+[4102]
 1=410201
 
-[To Viðareiðis]
+[4103]
 1=410301
 
-[To Hvannasunds]
+[4104]
 1=410401
 2=410402
 3=410403
 4=410404
 5=410405
 
-[To Klaksvíkar]
+[4105]
 1=410501
 2=410502
 3=410503
@@ -105,34 +105,34 @@ Desc=Immigration villages aggregated to immigration municipalities
 5=410701
 6=410702
 
-[To Kunoyar]
+[4106]
 1=410601
 2=410602
 
-[To Húsa]
+[4108]
 1=410801
 2=410802
 
-[To Fuglafjarðar]
+[4203]
 1=420301
 2=420302
 
-[To Leirvíkar]
+[4204]
 1=420401
 
-[To Gøtu]
+[4205]
 1=420501
 2=420502
 3=420503
 4=420504
 5=420505
 
-[To Nes]
+[4206]
 1=420601
 2=420602
 3=420603
 
-[To Runavíkar]
+[4207]
 1=420101
 2=420201
 3=420202
@@ -148,22 +148,22 @@ Desc=Immigration villages aggregated to immigration municipalities
 13=420901
 14=420902
 
-[To Sjóvar]
+[4208]
 1=420801
 2=420802
 3=420803
 4=420804
 5=420805
 
-[To Funnings]
+[4212]
 1=421201
 
-[To Eiðis]
+[4210]
 1=421001
 2=421002
 3=421003
 
-[To Sunda]
+[4211]
 1=421101
 2=421102
 3=421103
@@ -177,7 +177,7 @@ Desc=Immigration villages aggregated to immigration municipalities
 11=430303
 12=430401
 
-[To Tórshavnar]
+[4701]
 1=430501
 2=430502
 3=430503
@@ -197,76 +197,75 @@ Desc=Immigration villages aggregated to immigration municipalities
 17=431002
 18=431102
 
-[To Kvívíkar]
+[4306]
 1=430601
 2=430602
 3=430604
 4=430605
 5=430606
 
-[To Vestmanna]
+[4307]
 1=430701
 
-[To Sandavágs]
+[4401]
 1=440101
 
-[To Miðvágs]
+[4402]
 1=440201
 2=440202
 
-[To Sørvágs]
+[4403]
 1=440301
 2=440401
 3=440402
 4=440501
 
-[To Skopunar]
+[4502]
 1=450201
 
-[To Sands]
+[4501]
 1=450101
 
-[To Skálavíkar]
+[4503]
 1=450301
 
-[To Húsavíkar]
+[4504]
 1=450401
 2=450402
 3=450403
 
-[To Skúvoyar]
+[4505]
 1=450501
 2=450502
 
-[To Hvalbiar]
+[4601]
 1=460101
 2=460102
 
-[To Tvøroyrar]
+[4602]
 1=460201
 2=460202
 3=460203
 4=460204
 5=460205
 
-[To Fámjins]
+[4603]
 1=460301
 
-[To Hovs]
+[4604]
 1=460401
 
-[To Porkeris]
+[4605]
 1=460501
 
-[To Vágs]
+[4606]
 1=460601
 
-[To Sumbiar]
+[4607]
 1=460702
 2=460703
 3=460704
 4=460705
 
-[To abroad]
+[5555]
 1=555555
-

@@ -2,42 +2,42 @@
 Name=Frá kommunum 2005-2008
 Valueset=Frá bygdir
 Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
-1=Alt landið
-2=Frá Fugloyar
-3=Frá Svínoyar
-4=Frá Viðareiðis
-5=Frá Hvannasunds
-6=Frá Klaksvíkar
-7=Frá Kunoyar
-8=Frá Húsa
-9=Frá Fuglafjarðar
-10=Frá Leirvíkar
-11=Frá Gøtu
-12=Frá Nes
-13=Frá Runavíkar
-14=Frá Sjóvar
-15=Frá Funnings
-16=Frá Eiðis
-17=Frá Sunda
-18=Frá Tórshavnar
-19=Frá Kvívíkar
-20=Frá Vestmanna
-21=Frá Sandavágs
-22=Frá Miðvágs
-23=Frá Sørvágs
-24=Frá Skopunar
-25=Frá Sands
-26=Frá Skálavíkar
-27=Frá Húsavíkar
-28=Frá Skúvoyar
-29=Frá Hvalbiar
-30=Frá Tvøroyrar
-31=Frá Fámjins
-32=Frá Hovs
-33=Frá Porkeris
-34=Frá Vágs
-35=Frá Sumbiar
-36=Frá útlondum
+1=9999
+2=4101
+3=4102
+4=4103
+5=4104
+6=4105
+7=4106
+8=4108
+9=4203
+10=4204
+11=4205
+12=4206
+13=4207
+14=4208
+15=4212
+16=4210
+17=4211
+18=4701
+19=4306
+20=4307
+21=4401
+22=4402
+23=4403
+24=4502
+25=4501
+26=4503
+27=4504
+28=4505
+29=4601
+30=4602
+31=4603
+32=4604
+33=4605
+34=4606
+35=4607
+36=5555
 
 [Aggtext]
 1=Alt landið
@@ -77,27 +77,27 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 35=Frá Sumbiar
 36=Frá útlondum
 
-[Alt landið]
+[9999]
 1=999999
 
-[Frá Fugloyar]
+[4101]
 1=410101
 2=410102
 
-[Frá Svínoyar]
+[4102]
 1=410201
 
-[Frá Viðareiðis]
+[4103]
 1=410301
 
-[Frá Hvannasunds]
+[4104]
 1=410401
 2=410402
 3=410403
 4=410404
 5=410405
 
-[Frá Klaksvíkar]
+[4105]
 1=410501
 2=410502
 3=410503
@@ -105,34 +105,34 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 5=410701
 6=410702
 
-[Frá Kunoyar]
+[4106]
 1=410601
 2=410602
 
-[Frá Húsa]
+[4108]
 1=410801
 2=410802
 
-[Frá Fuglafjarðar]
+[4203]
 1=420301
 2=420302
 
-[Frá Leirvíkar]
+[4204]
 1=420401
 
-[Frá Gøtu]
+[4205]
 1=420501
 2=420502
 3=420503
 4=420504
 5=420505
 
-[Frá Nes]
+[4206]
 1=420601
 2=420602
 3=420603
 
-[Frá Runavíkar]
+[4207]
 1=420101
 2=420201
 3=420202
@@ -148,22 +148,22 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 13=420901
 14=420902
 
-[Frá Sjóvar]
+[4208]
 1=420801
 2=420802
 3=420803
 4=420804
 5=420805
 
-[Frá Funnings]
+[4212]
 1=421201
 
-[Frá Eiðis]
+[4210]
 1=421001
 2=421002
 3=421003
 
-[Frá Sunda]
+[4211]
 1=421101
 2=421102
 3=421103
@@ -177,7 +177,7 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 11=430303
 12=430401
 
-[Frá Tórshavnar]
+[4701]
 1=430501
 2=430502
 3=430503
@@ -197,75 +197,75 @@ Desc=Fráflyti bygdir bólkaðar til fráflyti kommunur
 17=431002
 18=431102
 
-[Frá Kvívíkar]
+[4306]
 1=430601
 2=430602
 3=430604
 4=430605
 5=430606
 
-[Frá Vestmanna]
+[4307]
 1=430701
 
-[Frá Sandavágs]
+[4401]
 1=440101
 
-[Frá Miðvágs]
+[4402]
 1=440201
 2=440202
 
-[Frá Sørvágs]
+[4403]
 1=440301
 2=440401
 3=440402
 4=440501
 
-[Frá Skopunar]
+[4502]
 1=450201
 
-[Frá Sands]
+[4501]
 1=450101
 
-[Frá Skálavíkar]
+[4503]
 1=450301
 
-[Frá Húsavíkar]
+[4504]
 1=450401
 2=450402
 3=450403
 
-[Frá Skúvoyar]
+[4505]
 1=450501
 2=450502
 
-[Frá Hvalbiar]
+[4601]
 1=460101
 2=460102
 
-[Frá Tvøroyrar]
+[4602]
 1=460201
 2=460202
 3=460203
 4=460204
 5=460205
 
-[Frá Fámjins]
+[4603]
 1=460301
 
-[Frá Hovs]
+[4604]
 1=460401
 
-[Frá Porkeris]
+[4605]
 1=460501
 
-[Frá Vágs]
+[4606]
 1=460601
 
-[Frá Sumbiar]
+[4607]
 1=460702
 2=460703
 3=460704
 4=460705
 
-[Frá útlondum]
+[5555]
 1=555555

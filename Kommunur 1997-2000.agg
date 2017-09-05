@@ -2,56 +2,56 @@
 Name=Kommunur 1997-2000
 Valueset=Bygdir
 Desc=Bygdir bólkaðar til kommunur
-1=Alt landið
-2=Fugloyar
-3=Svínoyar
-4=Viðareiðis
-5=Hvannasunds
-6=Klaksvíkar
-7=Kunoyar
-8=Mikladals
-9=Húsa
-10=Oyndafjarðar
-11=Elduvíkar
-12=Fuglafjarðar
-13=Leirvíkar
-14=Gøtu
-15=Nes
-16=Runavíkar
-17=Sjóvar
-18=Skála
-19=Eiðis
-20=Sunda
-21=Funnings
-22=Gjáar
-23=Haldórsvíkar
-24=Saksunar
-25=Hvalvíkar
-26=Hósvíkar
-27=Kollafjarðar
-28=Kvívíkar
-29=Vestmanna
-30=Tórshavnar
-31=Kirkjubøar
-32=Hests
-33=Nólsoyar
-34=Sandavágs
-35=Miðvágs
-36=Sørvágs
-37=Bíggjar
-38=Mykines
-39=Skopunar
-40=Sands
-41=Skálavíkar
-42=Húsavíkar
-43=Skúvoyar
-44=Hvalbiar
-45=Tvøroyrar
-46=Fámjins
-47=Hovs
-48=Porkeris
-49=Vágs
-50=Sumbiar
+1=9999
+2=4101
+3=4102
+4=4103
+5=4104
+6=4105
+7=4106
+8=4107
+9=4108
+10=4201
+11=4202
+12=4203
+13=4204
+14=4205
+15=4206
+16=4207
+17=4208
+18=4209
+19=4210
+20=4211
+21=4212
+22=4213
+23=4301
+24=4302
+25=4303
+26=4304
+27=4305
+28=4306
+29=4307
+30=4701
+31=4309
+32=4310
+33=4311
+34=4401
+35=4402
+36=4403
+37=4404
+38=4405
+39=4502
+40=4501
+41=4503
+42=4504
+43=4505
+44=4601
+45=4602
+46=4603
+47=4604
+48=4605
+49=4606
+50=4607
 
 [Aggtext]
 1=Alt landið
@@ -63,7 +63,7 @@ Desc=Bygdir bólkaðar til kommunur
 7=Kunoyar
 8=Mikladals
 9=Húsa
-10=Oyndafjarðar
+10=Oyndarfjarðar
 11=Elduvíkar
 12=Fuglafjarðar
 13=Leirvíkar
@@ -105,71 +105,71 @@ Desc=Bygdir bólkaðar til kommunur
 49=Vágs
 50=Sumbiar
 
-[Alt landið]
+[9999]
 1=999999
 
-[Fugloyar]
+[4101]
 1=410101
 2=410102
 
-[Svínoyar]
+[4102]
 1=410201
 
-[Viðareiðis]
+[4103]
 1=410301
 
-[Hvannasunds]
+[4104]
 1=410401
 2=410402
 3=410403
 4=410404
 5=410405
 
-[Klaksvíkar]
+[4105]
 1=410501
 2=410502
 3=410503
 4=410505
 
-[Kunoyar]
+[4106]
 1=410601
 2=410602
 
-[Mikladals]
+[4107]
 1=410701
 2=410702
 
-[Húsa]
+[4108]
 1=410801
 2=410802
 
-[Oyndafjarðar]
+[4201]
 1=420101
 
-[Elduvíkar]
+[4202]
 1=420201
 2=420202
 
-[Fuglafjarðar]
+[4203]
 1=420301
 2=420302
 
-[Leirvíkar]
+[4204]
 1=420401
 
-[Gøtu]
+[4205]
 1=420501
 2=420502
 3=420503
 4=420504
 5=420505
 
-[Nes]
+[4206]
 1=420601
 2=420602
 3=420603
 
-[Runavíkar]
+[4207]
 1=420701
 2=420702
 3=420703
@@ -180,55 +180,55 @@ Desc=Bygdir bólkaðar til kommunur
 8=420708
 9=420709
 
-[Sjóvar]
+[4208]
 1=420801
 2=420802
 3=420803
 4=420804
 5=420805
 
-[Skála]
+[4209]
 1=420901
 2=420902
 
-[Eiðis]
+[4210]
 1=421001
 2=421002
 3=421003
 
-[Sunda]
+[4211]
 1=421101
 2=421102
 3=421103
 
-[Funnings]
+[4212]
 1=421201
 
-[Gjáar]
+[4213]
 1=421301
 
-[Haldórsvíkar]
+[4301]
 1=430101
 2=430102
 3=430103
 
-[Saksunar]
+[4302]
 1=430201
 
-[Hvalvíkar]
+[4303]
 1=430301
 2=430302
 3=430303
 
-[Hósvíkar]
+[4304]
 1=430401
 
-[Kollafjarðar]
+[4305]
 1=430501
 2=430502
 3=430503
 
-[Kvívíkar]
+[4306]
 1=430601
 2=430602
 3=430603
@@ -236,10 +236,10 @@ Desc=Bygdir bólkaðar til kommunur
 5=430605
 6=430606
 
-[Vestmanna]
+[4307]
 1=430701
 
-[Tórshavnar]
+[4701]
 1=430801
 2=470101
 3=470102
@@ -251,81 +251,78 @@ Desc=Bygdir bólkaðar til kommunur
 9=430805
 10=430806
 
-[Kirkjubøar]
+[4309]
 1=430901
 2=430902
 
-[Hests]
+[4310]
 1=431001
 2=431002
 
-[Nólsoyar]
+[4311]
 1=431102
 
-[Sandavágs]
+[4401]
 1=440101
 
-[Miðvágs]
+[4402]
 1=440201
 2=440202
 
-[Sørvágs]
+[4403]
 1=440301
 
-[Bíggjar]
+[4404]
 1=440401
 2=440402
 
-[Mykines]
+[4405]
 1=440501
 
-[Skopunar]
+[4502]
 1=450201
 
-[Sands]
+[4501]
 1=450101
 
-[Skálavíkar]
+[4503]
 1=450301
 
-[Húsavíkar]
+[4504]
 1=450401
 2=450402
 3=450403
 
-[Skúvoyar]
+[4505]
 1=450501
 2=450502
 
-[Hvalbiar]
+[4601]
 1=460101
 2=460102
 
-[Tvøroyrar]
+[4602]
 1=460201
 2=460202
 3=460203
 4=460204
 5=460205
 
-[Fámjins]
+[4603]
 1=460301
 
-[Hovs]
+[4604]
 1=460401
 
-[Porkeris]
+[4605]
 1=460501
 
-[Vágs]
+[4606]
 1=460601
 2=460602
 
-[Sumbiar]
+[4607]
 1=460702
 2=460703
 3=460704
 4=460705
-
-
-
