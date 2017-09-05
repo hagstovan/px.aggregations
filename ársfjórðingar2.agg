@@ -1,0 +1,36 @@
+[Aggreg]
+Name=ársfjórðingar2
+Valueset=mánaðir2
+1=1. ársfj.
+2=2. ársfj.
+3=3. ársfj.
+4=4. ársfj.
+
+[Aggtext]
+1=1. ársfj.
+2=2. ársfj.
+3=3. ársfj.
+4=4. ársfj.
+
+
+[1. ársfj.]
+1=M01
+2=M02
+3=M03
+
+[2. ársfj.]
+1=M04
+2=M05
+3=M06
+
+[3. ársfj.]
+1=M07
+2=M08
+3=M09
+
+[4. ársfj.]
+1=M10
+2=M11
+3=M12
+
+

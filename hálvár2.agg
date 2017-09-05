@@ -1,0 +1,27 @@
+[Aggreg]
+Name=hálvár2
+Valueset=mánaðir2
+Desc=
+1=fyrra hálvár
+2=seinna hálvár
+
+[Aggtext]
+1=fyrra hálvár
+2=seinna hálvár
+
+[fyrra hálvár]
+1=M01
+2=M02
+3=M03
+4=M04
+5=M05
+6=M06
+
+[seinna hálvár]
+1=M07
+2=M08
+3=M09
+4=M10
+5=M11
+6=M12
+
