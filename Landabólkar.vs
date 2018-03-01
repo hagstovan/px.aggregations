@@ -4,10 +4,11 @@ Prestext=Bólking av londum
 Type=V
 [Aggreg]
 1=Landabólkar.agg
-2=ES28.agg
-3=ES27.agg
-4=ES25.agg
-5=ES15.agg
+2=Landabólkar - FØ-DK.agg
+3=ES28.agg
+4=ES27.agg
+5=ES25.agg
+6=ES15.agg
 [Domain]
 1=landabolkar
 [Valuecode]

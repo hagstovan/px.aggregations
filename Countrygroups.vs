@@ -4,10 +4,11 @@ Prestext=Valueset of countries
 Type=V
 [Aggreg]
 1=Countrygroups.agg
-2=EU28.agg
-3=EU27.agg
-4=EU25.agg
-5=EU15.agg
+2=Countrygroups - FO-DK.agg
+3=EU28.agg
+4=EU27.agg
+5=EU25.agg
+6=EU15.agg
 [Domain]
 1=countrygroups
 [Valuecode]
