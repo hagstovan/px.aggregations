@@ -4,13 +4,14 @@ Prestext=Aggregation by immigration villages
 Type=V
 [Aggreg]
 1=To districts.agg
-2=To islands.agg
-3=To municipalities 1. Jan. 2017.agg
-4=To municipalities 2009-2016.agg
-5=To municipalities 2005-2008.agg
-6=To municipalities 2001-2004.agg
-7=To municipalities 1997-2000.agg
-8=To municipalities before 1997.agg
+2=To regions.agg
+3=To islands.agg
+4=To municipalities 1. Jan. 2017.agg
+5=To municipalities 2009-2016.agg
+6=To municipalities 2005-2008.agg
+7=To municipalities 2001-2004.agg
+8=To municipalities 1997-2000.agg
+9=To municipalities before 1997.agg
 [Domain]
 1=immigration
 [Valuecode]
@@ -249,7 +250,7 @@ Type=V
 110=To Trongisvágs
 111=To Tvøroyrar
 112=To Ørðavíkar
-113=To Ørðavíkarlíð
+113=To Ørðavíkslíð
 114=To Fámjins
 115=To Hovs
 116=To Porkeris
