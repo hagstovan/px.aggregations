@@ -2,14 +2,14 @@
 Name=Til sýslur
 Valueset=Til bygdir
 Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
-1=Alt landið
-2=Til Norðoya sýslu
-3=Til Eysturoya sýslu
-4=Til Streymoyar sýslu
-5=Til Vága sýslu
-6=Til Sandoyar sýslu
-7=Til Suðuroyar sýslu
-8=Til útlond
+1=9999
+2=4100
+3=4200
+4=4300
+5=4400
+6=4500
+7=4600
+8=5555
 
 [Aggtext]
 1=Alt landið
@@ -21,10 +21,10 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
 7=Til Suðuroyar sýslu
 8=Til útlond
 
-[Alt landið]
+[9999]
 1=999999
 
-[Til Norðoya sýslu]
+[4100]
 1=410101
 2=410102
 3=410201
@@ -45,7 +45,7 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
 18=410801
 19=410802
 
-[Til Eysturoya sýslu]
+[4200]
 1=420101
 2=420201
 3=420202
@@ -85,7 +85,7 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
 37=421201
 38=421301
 
-[Til Streymoyar sýslu]
+[4300]
 1=430101
 2=430102
 3=430103
@@ -119,7 +119,7 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
 31=431002
 32=431102
 
-[Til Vága sýslu]
+[4400]
 1=440101
 2=440201
 3=440202
@@ -128,7 +128,7 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
 6=440402
 7=440501
 
-[Til Sandoyar sýslu]
+[4500]
 1=450101
 2=450201
 3=450301
@@ -138,7 +138,7 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
 7=450501
 8=450502
 
-[Til Suðuroyar sýslu]
+[4600]
 1=460101
 2=460102
 3=460201
@@ -155,7 +155,7 @@ Desc=Tilflyti bygdir bólkaðar til tilflyti sýslur
 14=460704
 15=460705
 
-[Til útlond]
+[5555]
 1=555555
 
 

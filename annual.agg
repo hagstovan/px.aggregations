@@ -2,12 +2,12 @@
 Name=Annual
 Valueset=month
 Desc=Annual
-1=Total(year)
+1=A1
 
 [Aggtext]
 1=Total(year)
 
-[Total(year)]
+[A1]
 1=1
 2=2
 3=3

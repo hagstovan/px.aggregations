@@ -3,11 +3,12 @@ Name=Age
 Prestext=Grouping of ages
 Type=V
 [Aggreg]
-1=Age0667.agg
-2=Age1864.agg
-3=Age5.agg
-4=Age10.agg
-5=Age20.agg
+1=Age ungrouped.agg
+2=Age0667.agg
+3=Age1864.agg
+4=Age5.agg
+5=Age10.agg
+6=Age20.agg
 [Domain]
 1=age
 [Valuecode]

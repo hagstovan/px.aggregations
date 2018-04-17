@@ -2,14 +2,14 @@
 Name=Half-year
 Valueset=month
 Desc=Half-year
-1=First half-year
-2=Second half-year
+1=H1
+2=H2
 
 [Aggtext]
 1=First half-year
 2=Second half-year
 
-[First half-year]
+[H1]
 1=1
 2=2
 3=3
@@ -17,11 +17,12 @@ Desc=Half-year
 5=5
 6=6
 
-[Second half-year]
+[H2]
 1=7
 2=8
 3=9
-4=10
+4=1
 5=11
 6=12
+
 

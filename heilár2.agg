@@ -2,12 +2,12 @@
 Name=heilár2
 Valueset=mánaðir2
 Desc=
-1=alt árið
+1=A1
 
 [Aggtext]
 1=alt árið
 
-[alt árið]
+[A1]
 1=M01
 2=M02
 3=M03

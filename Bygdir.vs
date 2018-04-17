@@ -7,11 +7,12 @@ Type=V
 2=Økir.agg
 3=Oyggjar.agg
 4=Kommunur 1. jan. 2017.agg
-5=Kommunur 2009-2016.agg
-6=Kommunur 2005-2008.agg
-7=Kommunur 2001-2004.agg
-8=Kommunur 1997-2000.agg
-9=Kommunur áðrenn 1997.agg
+5=KomBygd2017.agg
+6=Kommunur 2009-2016.agg
+7=Kommunur 2005-2008.agg
+8=Kommunur 2001-2004.agg
+9=Kommunur 1997-2000.agg
+10=Kommunur áðrenn 1997.agg
 [Domain]
 1=bygd
 [Valuecode]
@@ -250,7 +251,7 @@ Type=V
 110=Trongisvágur
 111=Tvøroyri
 112=Ørðavík
-113=Ørðavíkarlíð
+113=Ørðavíkslíð
 114=Fámjin
 115=Hov
 116=Porkeri

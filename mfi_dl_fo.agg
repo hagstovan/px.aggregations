@@ -1,0 +1,43 @@
+[Aggreg]
+Name=Innlán/útlán-bólking
+Valueset=mfi_dl_fo
+1=F10
+2=F11
+3=F12
+4=F20
+5=F21
+6=F22
+7=F23
+
+[Aggtext]
+1=Innlán
+2= - Innlán uttan uppsøgn
+3= - Tíðarinnskot og innlán við uppsøgn
+4=Útlán
+5= - Kassakredittur
+6= - Lánsbrævagrundaði útlán
+7= - Onnur útlán
+
+[F10]
+1=D1
+2=D2
+
+[F11]
+1=D1
+
+[F12]
+1=D2
+
+[F20]
+1=L1
+2=L2
+3=L3
+
+[F21]
+1=L1
+
+[F22]
+1=L2
+
+[F23]
+1=L3

@@ -1,10 +1,10 @@
 [Aggreg]
 Name=age1864
 Valueset=Age
-1=Total (age)
-2=00-17 years
-3=18-64 years
-4=65+ years
+1=Y_TOTAL
+2=Y00-17
+3=Y18-64
+4=Y_GE65
 
 [Aggtext]
 1=Total (age)
@@ -12,10 +12,10 @@ Valueset=Age
 3=18-64 years
 4=65+ years
 
-[Total (age)]
+[Y_TOTAL]
 1=999
 
-[00-17 years]
+[Y00-17]
 1=000
 2=001
 3=002
@@ -35,7 +35,7 @@ Valueset=Age
 17=016
 18=017
 
-[18-64 years]
+[Y18-64]
 1=018
 2=019
 3=020
@@ -84,7 +84,7 @@ Valueset=Age
 46=063
 47=064
 
-[65+ years]
+[Y_GE65]
 1=065
 2=066
 3=067

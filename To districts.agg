@@ -2,15 +2,14 @@
 Name=To districts
 Valueset=Immigration
 Desc=Immigration villages aggregated to immigration district
-Desc=Villages grouped to regions
-1=Total Faroe Islands
-2=To Norðoya district
-3=To Eysturoya district
-4=To Streymoyar district
-5=To Vága district
-6=To Sandoyar district
-7=To Suðuroyar district
-8=To abroad
+1=9999
+2=4100
+3=4200
+4=4300
+5=4400
+6=4500
+7=4600
+8=5555
 
 [Aggtext]
 1=Total Faroe Islands
@@ -22,10 +21,10 @@ Desc=Villages grouped to regions
 7=To Suðuroyar district
 8=To abroad
 
-[Total Faroe Islands]
+[9999]
 1=999999
 
-[To Norðoya district]
+[4100]
 1=410101
 2=410102
 3=410201
@@ -46,7 +45,7 @@ Desc=Villages grouped to regions
 18=410801
 19=410802
 
-[To Eysturoya district]
+[4200]
 1=420101
 2=420201
 3=420202
@@ -86,7 +85,7 @@ Desc=Villages grouped to regions
 37=421201
 38=421301
 
-[To Streymoyar district]
+[4300]
 1=430101
 2=430102
 3=430103
@@ -120,7 +119,7 @@ Desc=Villages grouped to regions
 31=431002
 32=431102
 
-[To Vága district]
+[4400]
 1=440101
 2=440201
 3=440202
@@ -129,7 +128,7 @@ Desc=Villages grouped to regions
 6=440402
 7=440501
 
-[To Sandoyar district]
+[4500]
 1=450101
 2=450201
 3=450301
@@ -139,7 +138,7 @@ Desc=Villages grouped to regions
 7=450501
 8=450502
 
-[To Suðuroyar district]
+[4600]
 1=460101
 2=460102
 3=460201
@@ -156,5 +155,5 @@ Desc=Villages grouped to regions
 14=460704
 15=460705
 
-[To abroad]
+[5555]
 1=555555

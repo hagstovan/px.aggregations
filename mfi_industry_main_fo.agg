@@ -1,0 +1,67 @@
+[Aggreg]
+Name=Høvuðsvinnur
+Valueset=mfi_industry_fo
+1=V00
+2=V10
+3=V20
+4=V30
+5=V40
+6=V50
+
+[Aggtext]
+1=Allar vinnur
+2= - Ráevnisvinnur
+3= - Framleiðsluvinnur
+4= - Tænastuvinnur
+5= - Húsarhald v.m.
+6= - Ókent
+
+[V00]
+1=1A
+2=1B
+3=2A
+4=2B
+5=2C
+6=2D
+7=3A
+8=3B
+9=3C
+10=3D
+11=3E
+12=3F
+13=3G
+14=3H
+15=3I
+16=3J
+17=3K
+18=3L
+19=3M
+20=4A
+21=5A
+
+[V10]
+1=1A
+2=1B
+[V20]
+1=2A
+2=2B
+3=2C
+4=2D
+[V30]
+1=3A
+2=3B
+3=3C
+4=3D
+5=3E
+6=3F
+7=3G
+8=3H
+9=3I
+10=3J
+11=3K
+12=3L
+13=3M
+[V40]
+1=4A
+[V50]
+1=5A

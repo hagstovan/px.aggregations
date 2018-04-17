@@ -2,14 +2,14 @@
 Name=hálvár
 Valueset=mánaðir
 Desc=
-1=fyrra hálvár
-2=seinna hálvár
+1=H1
+2=H2
 
 [Aggtext]
 1=fyrra hálvár
 2=seinna hálvár
 
-[fyrra hálvár]
+[H1]
 1=1
 2=2
 3=3
@@ -17,7 +17,7 @@ Desc=
 5=5
 6=6
 
-[seinna hálvár]
+[H2]
 1=7
 2=8
 3=9

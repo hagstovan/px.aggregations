@@ -1,11 +1,11 @@
 [Aggreg]
-Name=aldur0667
+Name=0-7-16-67 ár
 Valueset=Aldur
-1=Tils. (aldur)
-2=00-06 ár
-3=07-15 ár
-4=16-66 ár
-5=67 ár o.e.
+1=Y_TOTAL
+2=Y00-06
+3=Y07-15
+4=Y16-66
+5=Y_GE67
 
 [Aggtext]
 1=Tils. (aldur)
@@ -14,10 +14,10 @@ Valueset=Aldur
 4=16-66 ár
 5=67 ár o.e.
 
-[Tils. (aldur)]
+[Y_TOTAL]
 1=999
 
-[00-06 ár]
+[Y00-06]
 1=000
 2=001
 3=002
@@ -26,7 +26,7 @@ Valueset=Aldur
 6=005
 7=006
 
-[07-15 ár]
+[Y07-15]
 1=007
 2=008
 3=009
@@ -37,7 +37,7 @@ Valueset=Aldur
 8=014
 9=015
 
-[16-66 ár]
+[Y16-66]
 1=016
 2=017
 3=018
@@ -90,7 +90,7 @@ Valueset=Aldur
 50=065
 51=066
 
-[67 ár o.e.]
+[Y_GE67
 1=067
 2=068
 3=069
