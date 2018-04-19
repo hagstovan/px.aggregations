@@ -1,0 +1,41 @@
+[Aggreg]
+Name=Geirar óbólkaðir
+Valueset=mfi_sector_fo
+1=S11001
+2=S11002
+3=S128_S129
+4=S12_OTH
+5=S132
+6=S133
+7=S141_S142
+8=S143
+9=S15
+
+[Aggtext]
+1=11. Ikki-fíggjarlig feløg, almenn
+2=12. Ikki-fíggjarlig feløg, privat
+3=21. Tryggingarfeløg og eftirlønargrunnar
+4=22. Aðrir fíggjarstovnar
+5=31. Landið og sosialir grunnar
+6=32. Kommunur
+7=41. Sjálvstøðug vinnurekandi
+8=42. Løntakarar, pensionistar v.m.
+9=43. NPISH
+[S11001]
+1=S11001
+[S11002]
+1=S11002
+[S128_S129]
+1=S128_S129
+[S12_OTH]
+1=S12_OTH
+[S132]
+1=S132
+[S133]
+1=S133
+[S141_S142]
+1=S141_S142
+[S143]
+1=S143
+[S15]
+1=S15

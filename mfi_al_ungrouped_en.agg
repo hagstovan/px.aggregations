@@ -1,15 +1,6 @@
-[Descr]
-Name=mfi_al_en
-Prestext=MFI-instruments
-Type=V
 [Aggreg]
-1=mfi_al_ungrouped_en.agg
-2=mfi_al_level3_en.agg
-3=mfi_al_level2_en.agg
-4=mfi_al_level1_en.agg
-[Domain]
-1=mfi_instruments_al
-[Valuecode]
+Name=Assets/liabilities ungrouped
+Valueset=mfi_al_en
 1=A1
 2=A2
 3=A3
@@ -22,7 +13,8 @@ Type=V
 10=L3
 11=L4
 12=L5
-[Valuetext]
+
+[Aggtext]
 1=A1. Cash
 2=A2. Loans
 3=A3. Debt securities held
@@ -35,3 +27,28 @@ Type=V
 10=L3. Derivatives (liabilities)
 11=L4. Remaining liabilities
 12=L5. Capital and reserves
+
+[A1]
+1=A1
+[A2]
+1=A2
+[A3]
+1=A3
+[A4]
+1=A4
+[A5]
+1=A5
+[A6]
+1=A6
+[A7]
+1=A7
+[L1]
+1=L1
+[L2]
+1=L2
+[L3]
+1=L3
+[L4]
+1=L4
+[L5]
+1=L5

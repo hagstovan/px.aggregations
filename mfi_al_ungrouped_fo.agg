@@ -1,15 +1,6 @@
-[Descr]
-Name=mfi_al_fo
-Prestext=Fíggjaramboð
-Type=V
 [Aggreg]
-1=mfi_al_ungrouped_fo.agg
-2=mfi_al_level3_fo.agg
-3=mfi_al_level2_fo.agg
-4=mfi_al_level1_fo.agg
-[Domain]
-1=figgjarambod_al
-[Valuecode]
+Name=Ogn/skuld óbólkað
+Valueset=mfi_al_fo
 1=A1
 2=A2
 3=A3
@@ -22,7 +13,8 @@ Type=V
 10=L3
 11=L4
 12=L5
-[Valuetext]
+
+[Aggtext]
 1=A1. Kassi
 2=A2. Útlán
 3=A3. Lánsbrøv
@@ -35,3 +27,28 @@ Type=V
 10=P3. Avleidd fíggjaramboð (skuld)
 11=P4. Onnur skuld
 12=P5. Eginpeningur
+
+[A1]
+1=A1
+[A2]
+1=A2
+[A3]
+1=A3
+[A4]
+1=A4
+[A5]
+1=A5
+[A6]
+1=A6
+[A7]
+1=A7
+[L1]
+1=L1
+[L2]
+1=L2
+[L3]
+1=L3
+[L4]
+1=L4
+[L5]
+1=L5
