@@ -1,0 +1,61 @@
+[Descr]
+Name=business_en
+Prestext=Business sectors
+Type=V
+[Aggreg]
+1=business_ungrouped_en.agg
+2=business_sectors_en.agg
+[Domain]
+1=businessgroups
+[Valuecode]
+1=TOT
+2=LB
+3=FS
+4=AK
+5=RE
+6=FV
+7=SK
+8=ID
+9=BY
+10=OV
+11=HU
+12=GI
+13=SJ
+14=FL
+15=PO
+16=FT
+17=VT
+18=HT
+19=AF
+20=LF
+21=KR
+22=UV
+23=HA
+24=FM
+25=OS
+[Valuetext]
+1=Tils. (vinnugrein)
+2=Landbúnaður
+3=Fiskiskapur
+4=Ali- og kryvjivirki
+5=Ráevnisvinna
+6=Fiskavøruídnaður
+7=Skipasmiðjur, smiðjur
+8=Annar ídnaður
+9=Bygging
+10=Orku- og vatnveiting
+11=Handil og umvæling
+12=Gistihús og matstovuvirki
+13=Sjóflutningur
+14=Flutningur annars
+15=Postur og fjarskifti
+16=Fígging og trygging
+17=Vinnuligar tænastur
+18=Húshaldstænastur
+19=Almenn fyrisiting v.m.
+20= Landsfyrisiting
+21= Kommunur og ríkisstovnar
+22= Undirvísing
+23= Heilsu- og almannaverk
+24=Felagsskapir, mentan o.a.
+25=Ótilskilað v.m.
