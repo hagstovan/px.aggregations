@@ -1,6 +1,6 @@
 [Aggreg]
-Name=0 - 18 - 65 years
-Valueset=Age
+Name=0-18-65 years
+Valueset=age_en
 1=Y_TOTAL
 2=Y00-17
 3=Y18-64

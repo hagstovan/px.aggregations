@@ -1,14 +1,14 @@
 [Descr]
-Name=Age
+Name=age_en
 Prestext=Grouping of ages
 Type=V
 [Aggreg]
-1=age_en_ungrouped.agg
-2=age_en_0667.agg
-3=age_en_1864.agg
-4=age_en_5.agg
-5=age_en_10.agg
-6=age_en_20.agg
+1=age_en_0667.agg
+2=age_en_1864.agg
+3=age_en_5.agg
+4=age_en_10.agg
+5=age_en_20.agg
+6=age_en_ungrouped.agg
 [Domain]
 1=age
 [Valuecode]
