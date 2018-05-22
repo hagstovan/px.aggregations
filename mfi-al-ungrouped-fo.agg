@@ -1,0 +1,54 @@
+[Aggreg]
+Name=--- Eingin bólking ---
+Valueset=mfi-al-fo
+1=A1
+2=A2
+3=A3
+4=A4
+5=A5
+6=A6
+7=A7
+8=L1
+9=L2
+10=L3
+11=L4
+12=L5
+
+[Aggtext]
+1=A1. Kassi
+2=A2. Útlán
+3=A3. Lánsbrøv
+4=A4. Partabrøv o.l.
+5=A5. Avleidd fíggjaramboð (ogn)
+6=A6. Fastogn
+7=A7. Onnur ogn
+8=P1. Innlán
+9=P2. Lánsbrøv, útgivin
+10=P3. Avleidd fíggjaramboð (skuld)
+11=P4. Onnur skuld
+12=P5. Eginpeningur
+
+[A1]
+1=A1
+[A2]
+1=A2
+[A3]
+1=A3
+[A4]
+1=A4
+[A5]
+1=A5
+[A6]
+1=A6
+[A7]
+1=A7
+[L1]
+1=L1
+[L2]
+1=L2
+[L3]
+1=L3
+[L4]
+1=L4
+[L5]
+1=L5

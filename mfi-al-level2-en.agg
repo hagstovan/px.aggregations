@@ -1,0 +1,67 @@
+[Aggreg]
+Name=Assets/liabilities main groups
+Valueset=mfi-al-en
+Desc=
+1=A00
+2=A10
+3=A20
+4=A30
+5=L00
+6=L10
+7=L20
+8=L30
+9=L40
+
+[Aggtext]
+1=Total assets
+2= - Total liquid assets
+3= - Loans
+4= - Total other assets
+5=Total liabilities
+6= - Deposits
+7= - Dept securities issued
+8= - Total other liabilities
+9= - Capital and reserves
+
+[A00]
+1=A1
+2=A2
+3=A3
+4=A4
+5=A5
+6=A6
+7=A7
+
+[A10]
+1=A1
+2=A3
+
+[A20]
+1=A2
+
+[A30]
+1=A4
+2=A5
+3=A6
+4=A7
+
+[L00]
+1=L1
+2=L2
+3=L3
+4=L4
+5=L5
+
+[L10]
+1=L1
+
+[L20]
+1=L2
+
+[L30]
+1=L3
+2=L4
+
+[L40]
+1=L5
+

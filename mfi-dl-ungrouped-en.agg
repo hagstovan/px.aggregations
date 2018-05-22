@@ -1,0 +1,24 @@
+[Aggreg]
+Name=--- No classification ---
+Valueset=mfi-dl-en
+1=D1
+2=D2
+3=L1
+4=L2
+5=L3
+[Aggtext]
+1=Transferable and over-night deposits
+2=Deposits, redeemable or with agreed maturity
+3=Revolving loans and overdrafts
+4=Bond based loans
+5=Other loans
+[D1]
+1=D1
+[D2]
+1=D2
+[L1]
+1=L1
+[L2]
+1=L2
+[L3]
+1=L3

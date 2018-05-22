@@ -1,0 +1,40 @@
+[Aggreg]
+Name=Business sectors grouped
+Valueset=business-en
+1=VGTOT
+2=VGB1
+3=VGB2
+4=VGB3
+5=VGB4
+[Aggtext]
+1=Total (business sector)
+2=Fishery and other natural resource industries
+3=Construction and other manufacturing industries
+4=Private services
+5=Governmental and other services
+[VGTOT]
+1=TOT
+[VGB1]
+1=AK
+2=FS
+3=FV
+4=LB
+5=OS
+6=RE
+[VGB2]
+1=BY
+2=ID
+3=OV
+4=SK
+[VGB3]
+1=FL
+2=FM
+3=FT
+4=GI
+5=HT
+6=HU
+7=PO
+8=SJ
+9=VT
+[VGB4]
+1=AF

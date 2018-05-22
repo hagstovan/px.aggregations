@@ -1,0 +1,39 @@
+[Aggreg]
+Name=Høvuðsgeirar
+Valueset=mfi-sector-fo
+1=S00
+2=S10
+3=S12
+4=S13
+5=S14_S15
+
+[Aggtext]
+1=Allir geirar
+2= - Ikki-fíggjarlig feløg
+3= - Fíggjarfeløg
+4= - Almenn fyrisiting og tænasta
+5= - Húsarhald og NPISH
+
+[S00]
+1=S11001
+2=S11002
+3=S128_S129
+4=S12_OTH
+5=S132
+6=S133
+7=S141_S142
+8=S143
+9=S15
+[S10]
+1=S11001
+2=S11002
+[S12]
+1=S128_S129
+2=S12_OTH
+[S13]
+1=S132
+2=S133
+[S14_S15]
+1=S141_S142
+2=S143
+3=S15

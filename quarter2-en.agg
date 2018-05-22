@@ -1,0 +1,35 @@
+[Aggreg]
+Name=Quarter
+Valueset=month2-en
+Desc=Quarter
+1=Q1
+2=Q2
+3=Q3
+4=Q4
+
+[Aggtext]
+1=1. Quarter
+2=2. Quarter
+3=3. Quarter
+4=4. Quarter
+
+[Q1]
+1=M01
+2=M02
+3=M03
+
+[Q2]
+1=M04
+2=M05
+3=M06
+
+[Q3]
+1=M07
+2=M08
+3=M09
+
+[Q4]
+1=M10
+2=M11
+3=M12
+

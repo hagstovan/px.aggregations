@@ -1,0 +1,23 @@
+[Aggreg]
+Name=Heilár
+Valueset=month2-fo
+Desc=
+1=A1
+
+[Aggtext]
+1=Alt árið
+
+[A1]
+1=M01
+2=M02
+3=M03
+4=M04
+5=M05
+6=M06
+7=M07
+8=M08
+9=M09
+10=M10
+11=M11
+12=M12
+

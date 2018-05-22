@@ -1,0 +1,18 @@
+[Aggreg]
+Name=Innlán og útlán
+Valueset=mfi-dl-fo
+1=F10
+2=F20
+
+[Aggtext]
+1=Innlán
+2=Útlán
+
+[F10]
+1=D1
+2=D2
+
+[F20]
+1=L1
+2=L2
+3=L3
